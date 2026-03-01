@@ -45,6 +45,9 @@
     .card-details.open { max-height: 2000px; }
     .card-expand-icon { transition: transform 0.3s ease; }
     .card-expand-icon.open { transform: rotate(180deg); }
+    .scrollbar-hide::-webkit-scrollbar { display: none; }
+    .scrollbar-hide { -ms-overflow-style: none; scrollbar-width: none; }
+    .plan-placeholder { background: linear-gradient(135deg, #eef2f7 0%, #dbe4ee 50%, #c8d6e5 100%); }
   </style>
 </head>
 <body class="bg-brand-bg text-brand-dark font-sans">
@@ -78,7 +81,7 @@
           Build Your ADU Faster &amp; Save $8,000+ with Pre-Approved Plans
         </h1>
         <p class="text-lg text-gray-300 mb-8 leading-relaxed">
-          Skip months of design &amp; permitting — use city-approved Shelf Ready plans and start building sooner. Available for City of Sacramento and Sacramento County.
+          Skip months of design &amp; permitting — use city-approved Shelf Ready plans and start building sooner. Available for Sacramento, Elk Grove, Placer County, Yuba County &amp; more.
         </p>
         <div class="flex flex-wrap gap-3 mb-6">
           <div class="flex items-center gap-2 bg-white/10 backdrop-blur-sm rounded-lg px-3 py-2 text-sm">
@@ -109,8 +112,12 @@
             <input type="email" name="email" required placeholder="Email *" class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-brand-accent focus:border-brand-accent outline-none">
             <select name="area" class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-brand-accent outline-none bg-white">
               <option value="">Which area?</option>
-              <option value="city">City of Sacramento</option>
               <option value="county">Sacramento County</option>
+              <option value="city">City of Sacramento</option>
+              <option value="elkgrove">Elk Grove</option>
+              <option value="placer">Placer County</option>
+              <option value="yuba">Yuba County</option>
+              <option value="other">Other City/County</option>
               <option value="not-sure">Not Sure</option>
             </select>
             <button type="submit" id="hero-btn" class="w-full bg-brand-accent text-white font-semibold py-3 rounded-lg hover:bg-blue-700 transition shadow-lg shadow-blue-500/25 text-lg">Get My Free Quote</button>
@@ -163,9 +170,13 @@
       <p class="text-gray-600 text-lg text-center max-w-2xl mx-auto mb-10">Click any plan to see the floor plan, details and get a cost estimate.</p>
 
       <!-- Tabs -->
-      <div class="flex justify-center mb-10 border-b border-gray-200">
-        <button onclick="switchTab('county')" id="tab-county" class="tab-active px-6 py-3 text-lg cursor-pointer transition">Sacramento County</button>
-        <button onclick="switchTab('city')" id="tab-city" class="tab-inactive px-6 py-3 text-lg cursor-pointer transition">City of Sacramento</button>
+      <div class="flex justify-start md:justify-center mb-10 border-b border-gray-200 overflow-x-auto scrollbar-hide gap-1">
+        <button onclick="switchTab('county')" id="tab-county" class="tab-active px-4 md:px-6 py-3 text-sm md:text-base whitespace-nowrap cursor-pointer transition">Sacramento County</button>
+        <button onclick="switchTab('city')" id="tab-city" class="tab-inactive px-4 md:px-6 py-3 text-sm md:text-base whitespace-nowrap cursor-pointer transition">City of Sacramento</button>
+        <button onclick="switchTab('elkgrove')" id="tab-elkgrove" class="tab-inactive px-4 md:px-6 py-3 text-sm md:text-base whitespace-nowrap cursor-pointer transition">Elk Grove</button>
+        <button onclick="switchTab('placer')" id="tab-placer" class="tab-inactive px-4 md:px-6 py-3 text-sm md:text-base whitespace-nowrap cursor-pointer transition">Placer County</button>
+        <button onclick="switchTab('yuba')" id="tab-yuba" class="tab-inactive px-4 md:px-6 py-3 text-sm md:text-base whitespace-nowrap cursor-pointer transition">Yuba County</button>
+        <button onclick="switchTab('other')" id="tab-other" class="tab-inactive px-4 md:px-6 py-3 text-sm md:text-base whitespace-nowrap cursor-pointer transition">Other</button>
       </div>
 
       <!-- County Plans (default) -->
@@ -173,6 +184,18 @@
 
       <!-- City Plans -->
       <div id="plans-city" class="hidden grid sm:grid-cols-2 lg:grid-cols-3 gap-6" data-plans></div>
+
+      <!-- Elk Grove Plans -->
+      <div id="plans-elkgrove" class="hidden grid sm:grid-cols-2 lg:grid-cols-3 gap-6" data-plans></div>
+
+      <!-- Placer County Plans -->
+      <div id="plans-placer" class="hidden grid sm:grid-cols-2 lg:grid-cols-3 gap-6" data-plans></div>
+
+      <!-- Yuba County Plans -->
+      <div id="plans-yuba" class="hidden grid sm:grid-cols-2 lg:grid-cols-3 gap-6" data-plans></div>
+
+      <!-- Other City/County -->
+      <div id="plans-other" class="hidden" data-plans></div>
     </div>
   </section>
 
@@ -257,7 +280,7 @@
             <input type="text" name="name" required placeholder="Full Name *" class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-brand-accent outline-none">
             <input type="tel" name="phone" required placeholder="Phone *" class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-brand-accent outline-none">
             <input type="email" name="email" required placeholder="Email *" class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-brand-accent outline-none">
-            <select name="area" class="w-full px-4 py-3 border border-gray-300 rounded-lg outline-none bg-white"><option value="">Which area?</option><option value="city">City of Sacramento</option><option value="county">Sacramento County</option><option value="not-sure">Not Sure</option></select>
+            <select name="area" class="w-full px-4 py-3 border border-gray-300 rounded-lg outline-none bg-white"><option value="">Which area?</option><option value="county">Sacramento County</option><option value="city">City of Sacramento</option><option value="elkgrove">Elk Grove</option><option value="placer">Placer County</option><option value="yuba">Yuba County</option><option value="other">Other City/County</option><option value="not-sure">Not Sure</option></select>
             <textarea name="message" rows="2" placeholder="Message (optional)" class="w-full px-4 py-3 border border-gray-300 rounded-lg outline-none resize-none"></textarea>
             <button type="submit" id="footer-btn" class="w-full bg-brand-accent text-white font-semibold py-3 rounded-lg hover:bg-blue-700 transition shadow-lg shadow-blue-500/25 text-lg">Get My Free Quote</button>
           </div>
@@ -292,6 +315,8 @@
   <script>
   const WEBHOOK_URL = 'https://webhook-processor-production-ae2b.up.railway.app/webhook/shelf-ready-lead';
 
+  const ALL_TABS = ['county','city','elkgrove','placer','yuba','other'];
+
   // ===== PLAN DATA =====
   const PLANS = {
     city: [
@@ -305,28 +330,62 @@
       { id:'county-redwood', name:'Redwood (B)', size:'870', config:'2bd', beds:'2 bed', baths:'1 bath', img:'img/county/b-redwood-floor-plan.jpg', rendering:'img/county/b-redwood-rendering.jpg', area:'Sacramento County', badge:null, color:'from-[#2d5016] to-[#4a7c26]', fees:null, solar:true, features:['2 bedrooms','Spacious family-friendly layout','Full kitchen & laundry','Open living area','Solar panels required','Designed by Laura Miller Design'] },
       { id:'county-elderberry', name:'Elderberry (C)', size:'1,000', config:'2bd/2ba', beds:'2 bed', baths:'2 bath', img:'img/county/c-elderberry-floor-plan.jpg', rendering:'img/county/c-elderberry-rendering.jpg', area:'Sacramento County', badge:'POPULAR', color:'from-[#2d5016] to-[#4a7c26]', fees:null, solar:true, features:['2 bedrooms, 2 bathrooms','Great for rental income','Full kitchen & laundry','Generous living/dining area','Solar panels required','Designed by Laura Miller Design'] },
       { id:'county-magnolia', name:'Magnolia (D)', size:'1,184', config:'3bd/2ba', beds:'3 bed', baths:'2 bath', img:'img/county/d-magnolia-floor-plan.jpg', rendering:'img/county/d-magnolia-rendering.jpg', area:'Sacramento County', badge:null, color:'from-[#2d5016] to-[#4a7c26]', fees:null, solar:true, features:['3 bedrooms, 2 bathrooms','Largest available plan','Full kitchen & laundry','Spacious living & dining','Solar panels required','Designed by Laura Miller Design'] },
+    ],
+    elkgrove: [
+      { id:'eg-studio', name:'Studio', size:'435', config:'Studio', beds:'Studio', baths:'1 bath', img:null, area:'Elk Grove', badge:null, color:'from-[#1b4332] to-[#2d6a4f]', fees:'Impact fees may be waived (<750 sf)', solar:false, features:['Open-concept studio layout','Full kitchen & bathroom','Living/sleeping area','Compact efficient design','Pre-approved by City of Elk Grove'] },
+      { id:'eg-1bd', name:'One Bedroom', size:'650', config:'1bd/1ba', beds:'1 bed', baths:'1 bath', img:null, area:'Elk Grove', badge:null, color:'from-[#1b4332] to-[#2d6a4f]', fees:'Impact fees may be waived (<750 sf)', solar:false, features:['Separate bedroom','Full kitchen & bathroom','Open living & dining area','Comfortable single-occupant design','Pre-approved by City of Elk Grove'] },
+      { id:'eg-2bd', name:'Two Bedroom', size:'745', config:'2bd/1ba', beds:'2 bed', baths:'1 bath', img:null, area:'Elk Grove', badge:'POPULAR', color:'from-[#1b4332] to-[#2d6a4f]', fees:'Impact fees may be waived (<750 sf)', solar:false, features:['2 separate bedrooms','Full kitchen & bathroom','Open living/dining area','Great for rental income','Pre-approved by City of Elk Grove'] },
+      { id:'eg-2bd-lg', name:'Two Bedroom Plus', size:'1,000', config:'2bd/2ba', beds:'2 bed', baths:'2 bath', img:null, area:'Elk Grove', badge:null, color:'from-[#1b4332] to-[#2d6a4f]', fees:null, solar:false, features:['2 bedrooms, 2 full bathrooms','Spacious open floor plan','Full kitchen & laundry area','Ideal for multigenerational living','Pre-approved by City of Elk Grove'] },
+    ],
+    placer: [
+      { id:'placer-1bd-2s', name:'One Bedroom (2-Story)', size:'661', config:'1bd/1ba', beds:'1 bed', baths:'1 bath', img:null, area:'Placer County', badge:null, color:'from-[#1a5276] to-[#2980b9]', fees:'No impact fees (<750 sf)', solar:false, features:['Two-story design with 2-car garage below','Open-plan living, dining & kitchen','Private bedroom upstairs','Full kitchen & bathroom','Snow load engineering included','Solar & battery backup capable'], designer:'Jackson & Sands Engineering', officialLink:'https://www.placer.ca.gov/7039/One-Bedroom-661-sq-ft' },
+      { id:'placer-1bd-1s', name:'One Bedroom (Single Story)', size:'661', config:'1bd/1ba', beds:'1 bed', baths:'1 bath', img:null, area:'Placer County', badge:null, color:'from-[#1a5276] to-[#2980b9]', fees:'No impact fees (<750 sf)', solar:false, features:['Single-story design — no garage','Open-plan living, dining & kitchen','Private bedroom','Full kitchen & bathroom','Snow load engineering included','Solar & battery backup capable'], designer:'Jackson & Sands Engineering', officialLink:'https://www.placer.ca.gov/10000/One-Bedroom-661-sq-ft--Single-Story' },
+      { id:'placer-2bd', name:'Two Bedroom', size:'749', config:'2bd/1ba', beds:'2 bed', baths:'1 bath', img:null, area:'Placer County', badge:'POPULAR', color:'from-[#1a5276] to-[#2980b9]', fees:'No impact fees (<750 sf)', solar:false, features:['2 separate bedrooms with privacy','Open living, dining & kitchen','Simple gable roof design','Rear patio & covered entry','Optional attached garage','Solar & battery backup capable'], designer:'Jackson & Sands Engineering', officialLink:'https://www.placer.ca.gov/10543/Two-Bedroom---749-sq-ft-with-optional-ga' },
+      { id:'placer-3bd', name:'Three Bedroom', size:'1,194', config:'3bd/2ba', beds:'3 bed', baths:'2 bath', img:null, area:'Placer County', badge:null, color:'from-[#1a5276] to-[#2980b9]', fees:null, solar:false, features:['3 bedrooms, 2 full bathrooms','Primary suite with en-suite bath','Open living space with covered patio','Optional attached garage','Ideal for multigenerational living','Solar & battery backup capable'], designer:'Jackson & Sands Engineering', officialLink:'https://www.placer.ca.gov/7041/Three-Bedroom-1194-sq-ft' },
+    ],
+    yuba: [
+      { id:'yuba-496-ef', name:'Englebright & Francis', size:'496', config:'Studio/1bd', beds:'Studio/1 bed', baths:'1 bath', img:null, area:'Yuba County', badge:null, color:'from-[#6b3a0a] to-[#a0522d]', fees:'Impact fees may be waived (<750 sf)', solar:false, features:['Compact studio or 1-bedroom layout','Full kitchen & bathroom','Open living area','Multiple layout variations included'], designer:'Jackson & Sands Engineering', pdfLink:'https://www.yuba.gov/Englebright%20&%20Francis.pdf' },
+      { id:'yuba-496-pbw', name:'Prairie, Bear & Willow', size:'496', config:'Studio/1bd', beds:'Studio/1 bed', baths:'1 bath', img:null, area:'Yuba County', badge:null, color:'from-[#6b3a0a] to-[#a0522d]', fees:'Impact fees may be waived (<750 sf)', solar:false, features:['3 layout variations at 496 sq ft','Studio or 1-bedroom options','Full kitchen & bathroom','Open living area'], designer:'Jackson & Sands Engineering', pdfLink:'https://www.yuba.gov/Prairie,%20Bear,%20&%20Willow.pdf' },
+      { id:'yuba-599-ellis', name:'Ellis', size:'599', config:'1bd/1ba', beds:'1 bed', baths:'1 bath', img:null, area:'Yuba County', badge:null, color:'from-[#6b3a0a] to-[#a0522d]', fees:'Impact fees may be waived (<750 sf)', solar:false, features:['1-bedroom layout at 599 sq ft','Full kitchen & bathroom','Separate living area','Comfortable single-occupant design'], designer:'Jackson & Sands Engineering', pdfLink:'https://www.yuba.gov/Ellis.pdf' },
+      { id:'yuba-599-empf', name:'Empire & Feather', size:'599', config:'1bd/1ba', beds:'1 bed', baths:'1 bath', img:null, area:'Yuba County', badge:null, color:'from-[#6b3a0a] to-[#a0522d]', fees:'Impact fees may be waived (<750 sf)', solar:false, features:['2 layout variations at 599 sq ft','1-bedroom design','Full kitchen & bathroom','Alternative floor plan to Ellis'], designer:'Jackson & Sands Engineering', pdfLink:'https://www.yuba.gov/Empire%20&%20Feather.pdf' },
+      { id:'yuba-599-grass', name:'Grasshopper', size:'599', config:'1bd/1ba', beds:'1 bed', baths:'1 bath', img:null, area:'Yuba County', badge:null, color:'from-[#6b3a0a] to-[#a0522d]', fees:'Impact fees may be waived (<750 sf)', solar:false, features:['Unique 599 sq ft layout','1-bedroom design','Full kitchen & bathroom','Distinct floor plan variation'], designer:'Jackson & Sands Engineering', pdfLink:'https://www.yuba.gov/Grasshopper.pdf' },
+      { id:'yuba-749-dead', name:'Deadwood', size:'749', config:'2bd/1ba', beds:'2 bed', baths:'1 bath', img:null, area:'Yuba County', badge:null, color:'from-[#6b3a0a] to-[#a0522d]', fees:'Impact fees may be waived (<750 sf)', solar:false, features:['2-bedroom layout at 749 sq ft','Full kitchen & bathroom','Spacious living area','Family-friendly design'], designer:'Jackson & Sands Engineering', pdfLink:'https://www.yuba.gov/Deadwood.pdf' },
+      { id:'yuba-749-hutch', name:'Hutchinson', size:'749', config:'2bd/1ba', beds:'2 bed', baths:'1 bath', img:null, area:'Yuba County', badge:'POPULAR', color:'from-[#6b3a0a] to-[#a0522d]', fees:'Impact fees may be waived (<750 sf)', solar:false, features:['2-bedroom layout at 749 sq ft','Full kitchen & bathroom','Alternative layout to Deadwood','Great for rental income'], designer:'Jackson & Sands Engineering', pdfLink:'https://www.yuba.gov/Hutchinson.pdf' },
+      { id:'yuba-749-mgr', name:'Maple Grove & Reeds', size:'749', config:'2bd/1ba', beds:'2 bed', baths:'1 bath', img:null, area:'Yuba County', badge:null, color:'from-[#6b3a0a] to-[#a0522d]', fees:'Impact fees may be waived (<750 sf)', solar:false, features:['2 layout variations at 749 sq ft','2-bedroom design','Full kitchen & bathroom','Multiple floor plan options'], designer:'Jackson & Sands Engineering', pdfLink:'https://www.yuba.gov/Maple,%20Grove,%20&%20Reeds.pdf' },
     ]
   };
 
   const FAQS = [
-    ['What is the Shelf Ready ADU Program?','The Shelf Ready ADU Program offers pre-approved ADU plans provided by the City of Sacramento and Sacramento County. These plans have already been reviewed and approved for building code compliance, saving you thousands in design fees and months of waiting time.'],
-    ['Am I eligible? How do I know if I\'m in City or County?','If your property is within Sacramento city limits, you can use the City plans. If you\'re in unincorporated Sacramento County, the County plans apply. During our free consultation, we\'ll verify your jurisdiction and confirm which plans are available.'],
-    ['Can I modify the pre-approved plans?','Minor modifications like interior finishes and fixtures are typically allowed. City of Sacramento plans cannot be structurally modified but can be mirrored. County plans may allow some adjustments. Our team will guide you on what\'s possible.'],
+    ['What is the Shelf Ready ADU Program?','The Shelf Ready ADU Program offers pre-approved ADU plans provided by cities and counties across Northern California — including Sacramento, Elk Grove, Placer County, and Yuba County. These plans have already been reviewed and approved for building code compliance, saving you thousands in design fees and months of waiting time.'],
+    ['Which areas do you serve?','We build ADUs across Northern California including City of Sacramento, Sacramento County, Elk Grove, Placer County, and Yuba County. Each jurisdiction has its own set of pre-approved plans. Don\'t see your area? Contact us — we likely serve your city or county too.'],
+    ['Am I eligible? How do I know which plans I can use?','Pre-approved plans are jurisdiction-specific. During our free consultation, we\'ll verify your property\'s jurisdiction and confirm which plans are available for your location.'],
+    ['Can I modify the pre-approved plans?','Minor modifications like interior finishes and fixtures are typically allowed. City of Sacramento plans cannot be structurally modified but can be mirrored. County plans may allow some adjustments. Our team will guide you on what\'s possible for your chosen plan.'],
     ['How much does construction cost?','Costs vary based on plan size, site conditions, and finishes. We provide a detailed estimate during your free consultation. Financing available starting at $1,500/month.'],
-    ['Do I need solar panels?','County plans: Laurel and Willow (460 sf) — no solar required. Redwood, Elderberry, and Magnolia — solar required. City plans are all-electric with waived impact fees under 750 sf.'],
+    ['Do I need solar panels?','Requirements vary by jurisdiction and plan size. Sacramento County requires solar for plans over 460 sf. Placer County plans include solar capability. We\'ll clarify solar requirements for your specific plan during consultation.'],
     ['How long does the whole process take?','With Shelf Ready plans: 4-7 months total. Permits in 2-8 weeks (vs 6+ months custom), construction 4-6 months. Compare to 12-18 months for a fully custom ADU.'],
   ];
 
   // ===== RENDER PLAN CARDS =====
   function renderPlans() {
-    ['city','county'].forEach(tab => {
+    // Render regular plan tabs
+    ['city','county','elkgrove','placer','yuba'].forEach(tab => {
       const container = document.getElementById('plans-' + tab);
-      container.innerHTML = PLANS[tab].map((p, i) => `
+      if (!PLANS[tab] || PLANS[tab].length === 0) return;
+      container.innerHTML = PLANS[tab].map((p, i) => {
+        const imgBlock = p.img
+          ? `<img src="${p.img}" alt="${p.name} floor plan" class="w-full h-full object-contain p-3">`
+          : `<div class="plan-placeholder flex flex-col items-center justify-center w-full h-full">
+              <svg class="w-14 h-14 text-gray-400 mb-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-4 0h4m-4 0v-4a1 1 0 011-1h2a1 1 0 011 1v4"/></svg>
+              <div class="text-2xl font-bold text-gray-500">${p.size} sf</div>
+              <div class="text-xs text-gray-400 mt-1">${p.config}</div>
+              ${p.designer ? `<div class="text-xs text-gray-400 mt-2">${p.designer}</div>` : ''}
+            </div>`;
+
+        return `
         <div class="bg-white rounded-xl shadow-md overflow-hidden border border-gray-100" id="card-${p.id}">
-          <!-- COLLAPSED: Image + minimal info -->
           <div class="cursor-pointer" onclick="toggleCard('${p.id}')">
             <div class="relative bg-gray-50 flex items-center justify-center overflow-hidden" style="height:240px">
-              <img src="${p.img}" alt="${p.name} floor plan" class="w-full h-full object-contain p-3">
+              ${imgBlock}
               ${p.badge ? `<div class="absolute top-3 right-3 bg-yellow-400 text-brand-dark text-xs font-bold px-3 py-1 rounded-full">${p.badge}</div>` : ''}
             </div>
             <div class="px-5 py-4 flex items-center justify-between">
@@ -338,20 +397,15 @@
               <svg class="card-expand-icon w-6 h-6 text-gray-400" id="icon-${p.id}" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
             </div>
           </div>
-
-          <!-- EXPANDED: Details + form -->
           <div class="card-details" id="details-${p.id}">
             <div class="border-t px-5 py-5">
               ${p.rendering ? `<img src="${p.rendering}" alt="${p.name} rendering" class="w-full rounded-lg mb-4">` : ''}
-
               <h4 class="font-bold mb-3">Plan Features</h4>
               <ul class="space-y-2 mb-5">
                 ${p.features.map(f => `<li class="flex items-start gap-2 text-sm"><svg class="w-4 h-4 text-green-500 mt-0.5 shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg><span>${f}</span></li>`).join('')}
                 ${p.fees ? `<li class="flex items-start gap-2 text-sm"><svg class="w-4 h-4 text-green-500 mt-0.5 shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg><span class="text-green-700 font-semibold">${p.fees}</span></li>` : ''}
                 ${p.solar ? `<li class="flex items-start gap-2 text-sm"><svg class="w-4 h-4 text-yellow-500 mt-0.5 shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M8.257 3.099c.765-1.36 2.722-1.36 3.486 0l5.58 9.92c.75 1.334-.213 2.98-1.742 2.98H4.42c-1.53 0-2.493-1.646-1.743-2.98l5.58-9.92zM11 13a1 1 0 11-2 0 1 1 0 012 0zm-1-8a1 1 0 00-1 1v3a1 1 0 002 0V6a1 1 0 00-1-1z" clip-rule="evenodd"/></svg><span>Solar panels required</span></li>` : ''}
               </ul>
-
-              <!-- Inline Form -->
               <div class="bg-brand-light rounded-xl p-4 border border-gray-200">
                 <h4 class="font-bold text-sm mb-3">Get Info About ${p.name}</h4>
                 <form onsubmit="return submitForm(event,'${p.id}')" class="space-y-2">
@@ -376,9 +430,37 @@
               </div>
             </div>
           </div>
-        </div>
-      `).join('');
+        </div>`;
+      }).join('');
     });
+
+    // Render "Other" card with inline lead form
+    document.getElementById('plans-other').innerHTML = `
+      <div class="max-w-lg mx-auto">
+        <div class="bg-white rounded-2xl shadow-lg p-6 md:p-8 border border-gray-100">
+          <div class="text-center mb-6">
+            <div class="w-14 h-14 bg-green-50 rounded-full flex items-center justify-center mx-auto mb-4">
+              <svg class="w-7 h-7 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/></svg>
+            </div>
+            <h3 class="text-xl font-bold mb-2">Don't See Your City or County?</h3>
+            <p class="text-gray-600 text-sm">We serve many areas across Northern California. Tell us your location and we'll check which pre-approved plans are available.</p>
+          </div>
+          <form onsubmit="return submitForm(event,'other')" class="space-y-3">
+            <input type="hidden" name="area" value="Other City/County">
+            <input type="text" name="name" required placeholder="Full Name *" class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-brand-accent outline-none">
+            <input type="tel" name="phone" required placeholder="Phone *" class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-brand-accent outline-none">
+            <input type="email" name="email" required placeholder="Email *" class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-brand-accent outline-none">
+            <textarea name="message" rows="2" required placeholder="Your city/county and what you're looking for *" class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-brand-accent outline-none resize-none"></textarea>
+            <button type="submit" id="other-btn" class="w-full bg-brand-accent text-white font-semibold py-3 rounded-lg hover:bg-blue-700 transition shadow-lg shadow-blue-500/25">Check My Area</button>
+          </form>
+          <div id="other-ok" class="hidden text-center py-6">
+            <div class="text-green-600 text-4xl mb-3">&#10003;</div>
+            <p class="font-bold text-lg mb-1">Thank You!</p>
+            <p class="text-gray-600 text-sm mb-3">We'll check your area and contact you shortly.</p>
+            <a href="tel:+19162388240" class="text-brand-accent font-semibold text-sm">Or call now: (916) 238-8240</a>
+          </div>
+        </div>
+      </div>`;
   }
 
   // ===== RENDER FAQS =====
@@ -404,10 +486,11 @@
 
   // ===== TAB SWITCHING =====
   function switchTab(tab) {
-    document.getElementById('plans-city').classList.toggle('hidden', tab !== 'city');
-    document.getElementById('plans-county').classList.toggle('hidden', tab !== 'county');
-    document.getElementById('tab-city').className = (tab === 'city' ? 'tab-active' : 'tab-inactive') + ' px-6 py-3 text-lg cursor-pointer transition';
-    document.getElementById('tab-county').className = (tab === 'county' ? 'tab-active' : 'tab-inactive') + ' px-6 py-3 text-lg cursor-pointer transition';
+    const tabClasses = 'px-4 md:px-6 py-3 text-sm md:text-base whitespace-nowrap cursor-pointer transition';
+    ALL_TABS.forEach(t => {
+      document.getElementById('plans-' + t).classList.toggle('hidden', t !== tab);
+      document.getElementById('tab-' + t).className = (t === tab ? 'tab-active' : 'tab-inactive') + ' ' + tabClasses;
+    });
   }
 
   // ===== FORM SUBMISSION =====
@@ -439,7 +522,7 @@
     } catch (e) {
       alert('Something went wrong. Please call us at (916) 238-8240.');
       btn.disabled = false;
-      btn.textContent = formId.includes('county') || formId.includes('city') ? 'Get Cost Estimate' : 'Get My Free Quote';
+      btn.textContent = 'Get My Free Quote';
     }
     return false;
   }
