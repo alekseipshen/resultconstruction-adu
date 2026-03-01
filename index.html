@@ -48,6 +48,11 @@
     .scrollbar-hide::-webkit-scrollbar { display: none; }
     .scrollbar-hide { -ms-overflow-style: none; scrollbar-width: none; }
     .plan-placeholder { background: linear-gradient(135deg, #eef2f7 0%, #dbe4ee 50%, #c8d6e5 100%); }
+    .tab-scroll-container { position: relative; }
+    .tab-scroll-hint { position: absolute; right: 0; top: 0; bottom: 3px; width: 48px; background: linear-gradient(to right, transparent, #f5f0eb 70%); pointer-events: none; display: flex; align-items: center; justify-content: flex-end; padding-right: 4px; }
+    .tab-scroll-hint svg { animation: nudge 1.5s ease-in-out infinite; }
+    @keyframes nudge { 0%,100%{transform:translateX(0)} 50%{transform:translateX(4px)} }
+    @media(min-width:768px) { .tab-scroll-hint { display: none; } }
   </style>
 </head>
 <body class="bg-brand-bg text-brand-dark font-sans">
@@ -170,13 +175,18 @@
       <p class="text-gray-600 text-lg text-center max-w-2xl mx-auto mb-10">Click any plan to see the floor plan, details and get a cost estimate.</p>
 
       <!-- Tabs -->
-      <div class="flex justify-start md:justify-center mb-10 border-b border-gray-200 overflow-x-auto scrollbar-hide gap-1">
-        <button onclick="switchTab('county')" id="tab-county" class="tab-active px-4 md:px-6 py-3 text-sm md:text-base whitespace-nowrap cursor-pointer transition">Sacramento County</button>
-        <button onclick="switchTab('city')" id="tab-city" class="tab-inactive px-4 md:px-6 py-3 text-sm md:text-base whitespace-nowrap cursor-pointer transition">City of Sacramento</button>
-        <button onclick="switchTab('elkgrove')" id="tab-elkgrove" class="tab-inactive px-4 md:px-6 py-3 text-sm md:text-base whitespace-nowrap cursor-pointer transition">Elk Grove</button>
-        <button onclick="switchTab('placer')" id="tab-placer" class="tab-inactive px-4 md:px-6 py-3 text-sm md:text-base whitespace-nowrap cursor-pointer transition">Placer County</button>
-        <button onclick="switchTab('yuba')" id="tab-yuba" class="tab-inactive px-4 md:px-6 py-3 text-sm md:text-base whitespace-nowrap cursor-pointer transition">Yuba County</button>
-        <button onclick="switchTab('other')" id="tab-other" class="tab-inactive px-4 md:px-6 py-3 text-sm md:text-base whitespace-nowrap cursor-pointer transition">Other</button>
+      <div class="tab-scroll-container">
+        <div class="flex justify-start md:justify-center mb-10 border-b border-gray-200 overflow-x-auto scrollbar-hide gap-1" id="tab-bar">
+          <button onclick="switchTab('county')" id="tab-county" class="tab-active px-4 md:px-6 py-3 text-sm md:text-base whitespace-nowrap cursor-pointer transition">Sacramento County</button>
+          <button onclick="switchTab('city')" id="tab-city" class="tab-inactive px-4 md:px-6 py-3 text-sm md:text-base whitespace-nowrap cursor-pointer transition">City of Sacramento</button>
+          <button onclick="switchTab('elkgrove')" id="tab-elkgrove" class="tab-inactive px-4 md:px-6 py-3 text-sm md:text-base whitespace-nowrap cursor-pointer transition">Elk Grove</button>
+          <button onclick="switchTab('placer')" id="tab-placer" class="tab-inactive px-4 md:px-6 py-3 text-sm md:text-base whitespace-nowrap cursor-pointer transition">Placer County</button>
+          <button onclick="switchTab('yuba')" id="tab-yuba" class="tab-inactive px-4 md:px-6 py-3 text-sm md:text-base whitespace-nowrap cursor-pointer transition">Yuba County</button>
+          <button onclick="switchTab('other')" id="tab-other" class="tab-inactive px-4 md:px-6 py-3 text-sm md:text-base whitespace-nowrap cursor-pointer transition">Other</button>
+        </div>
+        <div class="tab-scroll-hint md:hidden" id="tab-scroll-hint">
+          <svg class="w-5 h-5 text-brand-warm" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/></svg>
+        </div>
       </div>
 
       <!-- County Plans (default) -->
@@ -332,26 +342,24 @@
       { id:'county-magnolia', name:'Magnolia (D)', size:'1,184', config:'3bd/2ba', beds:'3 bed', baths:'2 bath', img:'img/county/d-magnolia-floor-plan.jpg', rendering:'img/county/d-magnolia-rendering.jpg', area:'Sacramento County', badge:null, color:'from-[#2d5016] to-[#4a7c26]', fees:null, solar:true, features:['3 bedrooms, 2 bathrooms','Largest available plan','Full kitchen & laundry','Spacious living & dining','Solar panels required','Designed by Laura Miller Design'] },
     ],
     elkgrove: [
-      { id:'eg-studio', name:'Studio', size:'435', config:'Studio', beds:'Studio', baths:'1 bath', img:null, area:'Elk Grove', badge:null, color:'from-[#1b4332] to-[#2d6a4f]', fees:'Impact fees may be waived (<750 sf)', solar:false, features:['Open-concept studio layout','Full kitchen & bathroom','Living/sleeping area','Compact efficient design','Pre-approved by City of Elk Grove'] },
-      { id:'eg-1bd', name:'One Bedroom', size:'650', config:'1bd/1ba', beds:'1 bed', baths:'1 bath', img:null, area:'Elk Grove', badge:null, color:'from-[#1b4332] to-[#2d6a4f]', fees:'Impact fees may be waived (<750 sf)', solar:false, features:['Separate bedroom','Full kitchen & bathroom','Open living & dining area','Comfortable single-occupant design','Pre-approved by City of Elk Grove'] },
-      { id:'eg-2bd', name:'Two Bedroom', size:'745', config:'2bd/1ba', beds:'2 bed', baths:'1 bath', img:null, area:'Elk Grove', badge:'POPULAR', color:'from-[#1b4332] to-[#2d6a4f]', fees:'Impact fees may be waived (<750 sf)', solar:false, features:['2 separate bedrooms','Full kitchen & bathroom','Open living/dining area','Great for rental income','Pre-approved by City of Elk Grove'] },
-      { id:'eg-2bd-lg', name:'Two Bedroom Plus', size:'1,000', config:'2bd/2ba', beds:'2 bed', baths:'2 bath', img:null, area:'Elk Grove', badge:null, color:'from-[#1b4332] to-[#2d6a4f]', fees:null, solar:false, features:['2 bedrooms, 2 full bathrooms','Spacious open floor plan','Full kitchen & laundry area','Ideal for multigenerational living','Pre-approved by City of Elk Grove'] },
+      { id:'eg-studio', name:'Studio', size:'435', config:'Studio', beds:'Studio', baths:'1 bath', img:'img/elkgrove/plan1-studio-435sf-floorplan.png', rendering:'img/elkgrove/plan1-studio-435sf-exterior.jpg', area:'Elk Grove', badge:null, color:'from-[#1b4332] to-[#2d6a4f]', fees:'Impact fees may be waived (<750 sf)', solar:false, features:['Open-concept studio layout','Full kitchen & bathroom','Living/sleeping area','Compact efficient design','Pre-approved by City of Elk Grove'] },
+      { id:'eg-1bd', name:'One Bedroom', size:'625', config:'1bd/1ba', beds:'1 bed', baths:'1 bath', img:'img/elkgrove/plan2-1br-625sf-floorplan.png', rendering:'img/elkgrove/plan2-1br-625sf-exterior.jpg', area:'Elk Grove', badge:null, color:'from-[#1b4332] to-[#2d6a4f]', fees:'Impact fees may be waived (<750 sf)', solar:false, features:['Separate bedroom','Full kitchen & bathroom','Open living & dining area','Comfortable single-occupant design','Pre-approved by City of Elk Grove'] },
+      { id:'eg-2bd', name:'Two Bedroom', size:'745', config:'2bd/1ba', beds:'2 bed', baths:'1 bath', img:'img/elkgrove/plan3-2br-747sf-floorplan.png', rendering:'img/elkgrove/plan3-2br-745sf-exterior.jpg', area:'Elk Grove', badge:'POPULAR', color:'from-[#1b4332] to-[#2d6a4f]', fees:'Impact fees may be waived (<750 sf)', solar:false, features:['2 separate bedrooms','Full kitchen & bathroom','Open living/dining area','Great for rental income','Pre-approved by City of Elk Grove'] },
     ],
     placer: [
-      { id:'placer-1bd-2s', name:'One Bedroom (2-Story)', size:'661', config:'1bd/1ba', beds:'1 bed', baths:'1 bath', img:null, area:'Placer County', badge:null, color:'from-[#1a5276] to-[#2980b9]', fees:'No impact fees (<750 sf)', solar:false, features:['Two-story design with 2-car garage below','Open-plan living, dining & kitchen','Private bedroom upstairs','Full kitchen & bathroom','Snow load engineering included','Solar & battery backup capable'], designer:'Jackson & Sands Engineering', officialLink:'https://www.placer.ca.gov/7039/One-Bedroom-661-sq-ft' },
-      { id:'placer-1bd-1s', name:'One Bedroom (Single Story)', size:'661', config:'1bd/1ba', beds:'1 bed', baths:'1 bath', img:null, area:'Placer County', badge:null, color:'from-[#1a5276] to-[#2980b9]', fees:'No impact fees (<750 sf)', solar:false, features:['Single-story design — no garage','Open-plan living, dining & kitchen','Private bedroom','Full kitchen & bathroom','Snow load engineering included','Solar & battery backup capable'], designer:'Jackson & Sands Engineering', officialLink:'https://www.placer.ca.gov/10000/One-Bedroom-661-sq-ft--Single-Story' },
-      { id:'placer-2bd', name:'Two Bedroom', size:'749', config:'2bd/1ba', beds:'2 bed', baths:'1 bath', img:null, area:'Placer County', badge:'POPULAR', color:'from-[#1a5276] to-[#2980b9]', fees:'No impact fees (<750 sf)', solar:false, features:['2 separate bedrooms with privacy','Open living, dining & kitchen','Simple gable roof design','Rear patio & covered entry','Optional attached garage','Solar & battery backup capable'], designer:'Jackson & Sands Engineering', officialLink:'https://www.placer.ca.gov/10543/Two-Bedroom---749-sq-ft-with-optional-ga' },
-      { id:'placer-3bd', name:'Three Bedroom', size:'1,194', config:'3bd/2ba', beds:'3 bed', baths:'2 bath', img:null, area:'Placer County', badge:null, color:'from-[#1a5276] to-[#2980b9]', fees:null, solar:false, features:['3 bedrooms, 2 full bathrooms','Primary suite with en-suite bath','Open living space with covered patio','Optional attached garage','Ideal for multigenerational living','Solar & battery backup capable'], designer:'Jackson & Sands Engineering', officialLink:'https://www.placer.ca.gov/7041/Three-Bedroom-1194-sq-ft' },
+      { id:'placer-1bd-2s', name:'One Bedroom (2-Story)', size:'661', config:'1bd/1ba', beds:'1 bed', baths:'1 bath', img:'img/placer/placer-1bd-2story-rendering.jpg', area:'Placer County', badge:null, color:'from-[#1a5276] to-[#2980b9]', fees:'No impact fees (<750 sf)', solar:false, features:['Two-story design with 2-car garage below','Open-plan living, dining & kitchen','Private bedroom upstairs','Full kitchen & bathroom','Snow load engineering included','Solar & battery backup capable'], designer:'Jackson & Sands Engineering' },
+      { id:'placer-1bd-1s', name:'One Bedroom (Single Story)', size:'661', config:'1bd/1ba', beds:'1 bed', baths:'1 bath', img:'img/placer/placer-1bd-1story-rendering.jpg', area:'Placer County', badge:null, color:'from-[#1a5276] to-[#2980b9]', fees:'No impact fees (<750 sf)', solar:false, features:['Single-story design — no garage','Open-plan living, dining & kitchen','Private bedroom','Full kitchen & bathroom','Snow load engineering included','Solar & battery backup capable'], designer:'Jackson & Sands Engineering' },
+      { id:'placer-2bd', name:'Two Bedroom', size:'749', config:'2bd/1ba', beds:'2 bed', baths:'1 bath', img:'img/placer/placer-2bd-rendering.jpg', area:'Placer County', badge:'POPULAR', color:'from-[#1a5276] to-[#2980b9]', fees:'No impact fees (<750 sf)', solar:false, features:['2 separate bedrooms with privacy','Open living, dining & kitchen','Simple gable roof design','Rear patio & covered entry','Optional attached garage','Solar & battery backup capable'], designer:'Jackson & Sands Engineering' },
+      { id:'placer-3bd', name:'Three Bedroom', size:'1,194', config:'3bd/2ba', beds:'3 bed', baths:'2 bath', img:'img/placer/placer-3bd-rendering.jpg', area:'Placer County', badge:null, color:'from-[#1a5276] to-[#2980b9]', fees:null, solar:false, features:['3 bedrooms, 2 full bathrooms','Primary suite with en-suite bath','Open living space with covered patio','Optional attached garage','Ideal for multigenerational living','Solar & battery backup capable'], designer:'Jackson & Sands Engineering' },
     ],
     yuba: [
-      { id:'yuba-496-ef', name:'Englebright & Francis', size:'496', config:'Studio/1bd', beds:'Studio/1 bed', baths:'1 bath', img:null, area:'Yuba County', badge:null, color:'from-[#6b3a0a] to-[#a0522d]', fees:'Impact fees may be waived (<750 sf)', solar:false, features:['Compact studio or 1-bedroom layout','Full kitchen & bathroom','Open living area','Multiple layout variations included'], designer:'Jackson & Sands Engineering', pdfLink:'https://www.yuba.gov/Englebright%20&%20Francis.pdf' },
-      { id:'yuba-496-pbw', name:'Prairie, Bear & Willow', size:'496', config:'Studio/1bd', beds:'Studio/1 bed', baths:'1 bath', img:null, area:'Yuba County', badge:null, color:'from-[#6b3a0a] to-[#a0522d]', fees:'Impact fees may be waived (<750 sf)', solar:false, features:['3 layout variations at 496 sq ft','Studio or 1-bedroom options','Full kitchen & bathroom','Open living area'], designer:'Jackson & Sands Engineering', pdfLink:'https://www.yuba.gov/Prairie,%20Bear,%20&%20Willow.pdf' },
-      { id:'yuba-599-ellis', name:'Ellis', size:'599', config:'1bd/1ba', beds:'1 bed', baths:'1 bath', img:null, area:'Yuba County', badge:null, color:'from-[#6b3a0a] to-[#a0522d]', fees:'Impact fees may be waived (<750 sf)', solar:false, features:['1-bedroom layout at 599 sq ft','Full kitchen & bathroom','Separate living area','Comfortable single-occupant design'], designer:'Jackson & Sands Engineering', pdfLink:'https://www.yuba.gov/Ellis.pdf' },
-      { id:'yuba-599-empf', name:'Empire & Feather', size:'599', config:'1bd/1ba', beds:'1 bed', baths:'1 bath', img:null, area:'Yuba County', badge:null, color:'from-[#6b3a0a] to-[#a0522d]', fees:'Impact fees may be waived (<750 sf)', solar:false, features:['2 layout variations at 599 sq ft','1-bedroom design','Full kitchen & bathroom','Alternative floor plan to Ellis'], designer:'Jackson & Sands Engineering', pdfLink:'https://www.yuba.gov/Empire%20&%20Feather.pdf' },
-      { id:'yuba-599-grass', name:'Grasshopper', size:'599', config:'1bd/1ba', beds:'1 bed', baths:'1 bath', img:null, area:'Yuba County', badge:null, color:'from-[#6b3a0a] to-[#a0522d]', fees:'Impact fees may be waived (<750 sf)', solar:false, features:['Unique 599 sq ft layout','1-bedroom design','Full kitchen & bathroom','Distinct floor plan variation'], designer:'Jackson & Sands Engineering', pdfLink:'https://www.yuba.gov/Grasshopper.pdf' },
-      { id:'yuba-749-dead', name:'Deadwood', size:'749', config:'2bd/1ba', beds:'2 bed', baths:'1 bath', img:null, area:'Yuba County', badge:null, color:'from-[#6b3a0a] to-[#a0522d]', fees:'Impact fees may be waived (<750 sf)', solar:false, features:['2-bedroom layout at 749 sq ft','Full kitchen & bathroom','Spacious living area','Family-friendly design'], designer:'Jackson & Sands Engineering', pdfLink:'https://www.yuba.gov/Deadwood.pdf' },
-      { id:'yuba-749-hutch', name:'Hutchinson', size:'749', config:'2bd/1ba', beds:'2 bed', baths:'1 bath', img:null, area:'Yuba County', badge:'POPULAR', color:'from-[#6b3a0a] to-[#a0522d]', fees:'Impact fees may be waived (<750 sf)', solar:false, features:['2-bedroom layout at 749 sq ft','Full kitchen & bathroom','Alternative layout to Deadwood','Great for rental income'], designer:'Jackson & Sands Engineering', pdfLink:'https://www.yuba.gov/Hutchinson.pdf' },
-      { id:'yuba-749-mgr', name:'Maple Grove & Reeds', size:'749', config:'2bd/1ba', beds:'2 bed', baths:'1 bath', img:null, area:'Yuba County', badge:null, color:'from-[#6b3a0a] to-[#a0522d]', fees:'Impact fees may be waived (<750 sf)', solar:false, features:['2 layout variations at 749 sq ft','2-bedroom design','Full kitchen & bathroom','Multiple floor plan options'], designer:'Jackson & Sands Engineering', pdfLink:'https://www.yuba.gov/Maple,%20Grove,%20&%20Reeds.pdf' },
+      { id:'yuba-496-ef', name:'Englebright & Francis', size:'496', config:'Studio/1bd', beds:'Studio/1 bed', baths:'1 bath', img:'img/yuba/englebright-francis-rendering.jpg', area:'Yuba County', badge:null, color:'from-[#6b3a0a] to-[#a0522d]', fees:'Impact fees may be waived (<750 sf)', solar:false, features:['Compact studio or 1-bedroom layout','Full kitchen & bathroom','Open living area','Multiple layout variations included'], designer:'Jackson & Sands Engineering' },
+      { id:'yuba-496-pbw', name:'Prairie, Bear & Willow', size:'496', config:'Studio/1bd', beds:'Studio/1 bed', baths:'1 bath', img:'img/yuba/prairie-bear-willow-rendering.jpg', area:'Yuba County', badge:null, color:'from-[#6b3a0a] to-[#a0522d]', fees:'Impact fees may be waived (<750 sf)', solar:false, features:['3 layout variations at 496 sq ft','Studio or 1-bedroom options','Full kitchen & bathroom','Open living area'], designer:'Jackson & Sands Engineering' },
+      { id:'yuba-599-ellis', name:'Ellis', size:'599', config:'1bd/1ba', beds:'1 bed', baths:'1 bath', img:'img/yuba/ellis-rendering.jpg', area:'Yuba County', badge:null, color:'from-[#6b3a0a] to-[#a0522d]', fees:'Impact fees may be waived (<750 sf)', solar:false, features:['1-bedroom layout at 599 sq ft','Full kitchen & bathroom','Separate living area','Comfortable single-occupant design'], designer:'Jackson & Sands Engineering' },
+      { id:'yuba-599-empf', name:'Empire & Feather', size:'599', config:'1bd/1ba', beds:'1 bed', baths:'1 bath', img:'img/yuba/empire-feather-rendering.jpg', area:'Yuba County', badge:null, color:'from-[#6b3a0a] to-[#a0522d]', fees:'Impact fees may be waived (<750 sf)', solar:false, features:['2 layout variations at 599 sq ft','1-bedroom design','Full kitchen & bathroom','Alternative floor plan to Ellis'], designer:'Jackson & Sands Engineering' },
+      { id:'yuba-599-grass', name:'Grasshopper', size:'599', config:'1bd/1ba', beds:'1 bed', baths:'1 bath', img:'img/yuba/grasshopper-rendering.jpg', area:'Yuba County', badge:null, color:'from-[#6b3a0a] to-[#a0522d]', fees:'Impact fees may be waived (<750 sf)', solar:false, features:['Unique 599 sq ft layout','1-bedroom design','Full kitchen & bathroom','Distinct floor plan variation'], designer:'Jackson & Sands Engineering' },
+      { id:'yuba-749-hutch', name:'Hutchinson', size:'749', config:'2bd/1ba', beds:'2 bed', baths:'1 bath', img:'img/yuba/hutchinson-rendering.jpg', area:'Yuba County', badge:'POPULAR', color:'from-[#6b3a0a] to-[#a0522d]', fees:'Impact fees may be waived (<750 sf)', solar:false, features:['2-bedroom layout at 749 sq ft','Full kitchen & bathroom','Spacious living area','Great for rental income'], designer:'Jackson & Sands Engineering' },
+      { id:'yuba-749-mgr', name:'Maple Grove & Reeds', size:'749', config:'2bd/1ba', beds:'2 bed', baths:'1 bath', img:'img/yuba/maple-grove-reeds-rendering.jpg', area:'Yuba County', badge:null, color:'from-[#6b3a0a] to-[#a0522d]', fees:'Impact fees may be waived (<750 sf)', solar:false, features:['2 layout variations at 749 sq ft','2-bedroom design','Full kitchen & bathroom','Multiple floor plan options'], designer:'Jackson & Sands Engineering' },
     ]
   };
 
@@ -491,7 +499,25 @@
       document.getElementById('plans-' + t).classList.toggle('hidden', t !== tab);
       document.getElementById('tab-' + t).className = (t === tab ? 'tab-active' : 'tab-inactive') + ' ' + tabClasses;
     });
+    // Scroll active tab into view on mobile
+    const activeTab = document.getElementById('tab-' + tab);
+    activeTab.scrollIntoView({ behavior: 'smooth', inline: 'center', block: 'nearest' });
   }
+
+  // ===== TAB SCROLL HINT =====
+  (function() {
+    const bar = document.getElementById('tab-bar');
+    const hint = document.getElementById('tab-scroll-hint');
+    if (!bar || !hint) return;
+    function checkScroll() {
+      const atEnd = bar.scrollLeft + bar.clientWidth >= bar.scrollWidth - 10;
+      hint.style.opacity = atEnd ? '0' : '1';
+      hint.style.transition = 'opacity 0.3s';
+    }
+    bar.addEventListener('scroll', checkScroll);
+    window.addEventListener('resize', checkScroll);
+    setTimeout(checkScroll, 100);
+  })();
 
   // ===== FORM SUBMISSION =====
   async function submitForm(event, formId) {
