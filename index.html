@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Shelf Ready ADU Plans | Result Construction Sacramento</title>
   <meta name="description" content="Build your ADU faster and save $8,000+ with Sacramento's pre-approved Shelf Ready plans. Licensed contractor, 100+ ADUs built. Free consultation.">
-  <link rel="canonical" href="https://shelf-ready-landing.vercel.app">
+  <link rel="canonical" href="https://shelf-ready.resultconstruction.com">
   <link rel="icon" type="image/x-icon" href="favicon.ico">
   <link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32.png">
   <link rel="apple-touch-icon" sizes="180x180" href="img/favicon-180.png">
@@ -24,14 +24,13 @@
     }
   </script>
 
-  <!-- Google Ads gtag.js — replace AW-XXXXXXXXX with actual conversion ID -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=AW-XXXXXXXXX"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'AW-XXXXXXXXX');
-  </script>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-5GVGNRZ3');</script>
+  <!-- End Google Tag Manager -->
 
   <style>
     html { scroll-behavior: smooth; }
@@ -56,6 +55,9 @@
   </style>
 </head>
 <body class="bg-brand-bg text-brand-dark font-sans">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5GVGNRZ3" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
 
   <!-- ===== HEADER ===== -->
   <header class="bg-white shadow-sm sticky top-0 z-50">
@@ -543,7 +545,8 @@
       if (r.ok) {
         form.classList.add('hidden');
         ok.classList.remove('hidden');
-        if (typeof gtag === 'function') gtag('event', 'conversion', { send_to: 'AW-XXXXXXXXX/CONVERSION_LABEL', value: 1.0, currency: 'USD' });
+        window.dataLayer = window.dataLayer || [];
+        window.dataLayer.push({ 'event': 'generate_lead', 'form_location': formId });
       } else throw new Error();
     } catch (e) {
       alert('Something went wrong. Please call us at (916) 238-8240.');
