@@ -1,0 +1,6934 @@
+{
+  "total_keywords": 866,
+  "geo": "US-wide",
+  "keywords": [
+    {
+      "keyword": "accessory dwelling unit",
+      "avg_monthly_searches": 90500,
+      "competition": "LOW",
+      "competition_index": "17",
+      "low_bid": 0.382747,
+      "high_bid": 5.43
+    },
+    {
+      "keyword": "additional dwelling unit",
+      "avg_monthly_searches": 90500,
+      "competition": "LOW",
+      "competition_index": "17",
+      "low_bid": 0.382747,
+      "high_bid": 5.43
+    },
+    {
+      "keyword": "adu's",
+      "avg_monthly_searches": 90500,
+      "competition": "LOW",
+      "competition_index": "17",
+      "low_bid": 0.382747,
+      "high_bid": 5.43
+    },
+    {
+      "keyword": "county accessory",
+      "avg_monthly_searches": 22200,
+      "competition": "LOW",
+      "competition_index": "6",
+      "low_bid": 0.97,
+      "high_bid": 2.473698
+    },
+    {
+      "keyword": "adu construction",
+      "avg_monthly_searches": 14800,
+      "competition": "LOW",
+      "competition_index": "4",
+      "low_bid": 2.87,
+      "high_bid": 19.57342
+    },
+    {
+      "keyword": "adu housing",
+      "avg_monthly_searches": 14800,
+      "competition": "MEDIUM",
+      "competition_index": "40",
+      "low_bid": 0.289352,
+      "high_bid": 3.979997
+    },
+    {
+      "keyword": "adus housing",
+      "avg_monthly_searches": 14800,
+      "competition": "MEDIUM",
+      "competition_index": "40",
+      "low_bid": 0.289352,
+      "high_bid": 3.979997
+    },
+    {
+      "keyword": "accessory dwelling unit construction",
+      "avg_monthly_searches": 14800,
+      "competition": "LOW",
+      "competition_index": "4",
+      "low_bid": 2.87,
+      "high_bid": 19.57342
+    },
+    {
+      "keyword": "adu builder",
+      "avg_monthly_searches": 9900,
+      "competition": "LOW",
+      "competition_index": "13",
+      "low_bid": 3.370777,
+      "high_bid": 25.2
+    },
+    {
+      "keyword": "adu construction cost",
+      "avg_monthly_searches": 9900,
+      "competition": "LOW",
+      "competition_index": "1",
+      "low_bid": 2.32,
+      "high_bid": 9.925299
+    },
+    {
+      "keyword": "accessory dwelling unit builders",
+      "avg_monthly_searches": 9900,
+      "competition": "LOW",
+      "competition_index": "13",
+      "low_bid": 3.370777,
+      "high_bid": 25.2
+    },
+    {
+      "keyword": "prefab accessory dwelling unit",
+      "avg_monthly_searches": 8100,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.727163,
+      "high_bid": 4.86
+    },
+    {
+      "keyword": "adu plans",
+      "avg_monthly_searches": 6600,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.5,
+      "high_bid": 3.35
+    },
+    {
+      "keyword": "adu homes",
+      "avg_monthly_searches": 6600,
+      "competition": "HIGH",
+      "competition_index": "96",
+      "low_bid": 0.38,
+      "high_bid": 4.153369
+    },
+    {
+      "keyword": "accessory dwelling unit plans",
+      "avg_monthly_searches": 6600,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.5,
+      "high_bid": 3.35
+    },
+    {
+      "keyword": "additional dwelling unit plans",
+      "avg_monthly_searches": 6600,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.5,
+      "high_bid": 3.35
+    },
+    {
+      "keyword": "home with adu",
+      "avg_monthly_searches": 6600,
+      "competition": "HIGH",
+      "competition_index": "96",
+      "low_bid": 0.38,
+      "high_bid": 4.153369
+    },
+    {
+      "keyword": "adu builders near me",
+      "avg_monthly_searches": 5400,
+      "competition": "LOW",
+      "competition_index": "24",
+      "low_bid": 2.559022,
+      "high_bid": 21.39
+    },
+    {
+      "keyword": "shed office",
+      "avg_monthly_searches": 5400,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.470719,
+      "high_bid": 2.140673
+    },
+    {
+      "keyword": "diy outdoor cooking area",
+      "avg_monthly_searches": 5400,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.387877,
+      "high_bid": 3.43
+    },
+    {
+      "keyword": "adu contractor",
+      "avg_monthly_searches": 4400,
+      "competition": "LOW",
+      "competition_index": "14",
+      "low_bid": 5.74,
+      "high_bid": 32.142842
+    },
+    {
+      "keyword": "accessory dwelling unit contractor",
+      "avg_monthly_searches": 4400,
+      "competition": "LOW",
+      "competition_index": "14",
+      "low_bid": 5.74,
+      "high_bid": 32.142842
+    },
+    {
+      "keyword": "backyard tiny house",
+      "avg_monthly_searches": 3600,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.27,
+      "high_bid": 1.82
+    },
+    {
+      "keyword": "tiny home for backyard",
+      "avg_monthly_searches": 3600,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.27,
+      "high_bid": 1.82
+    },
+    {
+      "keyword": "backyard tiny homes",
+      "avg_monthly_searches": 3600,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.27,
+      "high_bid": 1.82
+    },
+    {
+      "keyword": "adu unit",
+      "avg_monthly_searches": 2900,
+      "competition": "MEDIUM",
+      "competition_index": "35",
+      "low_bid": 1.140537,
+      "high_bid": 5.879692
+    },
+    {
+      "keyword": "adu contractors near me",
+      "avg_monthly_searches": 2900,
+      "competition": "MEDIUM",
+      "competition_index": "46",
+      "low_bid": 6.18,
+      "high_bid": 36.6
+    },
+    {
+      "keyword": "fenced in backyard",
+      "avg_monthly_searches": 2900,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 1.72,
+      "high_bid": 7.31
+    },
+    {
+      "keyword": "accessory dwelling units for sale",
+      "avg_monthly_searches": 2900,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.683389,
+      "high_bid": 4.35
+    },
+    {
+      "keyword": "adu floor plans",
+      "avg_monthly_searches": 2400,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.438046,
+      "high_bid": 2.49
+    },
+    {
+      "keyword": "adu designs",
+      "avg_monthly_searches": 2400,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.53,
+      "high_bid": 3.97
+    },
+    {
+      "keyword": "backyard adu",
+      "avg_monthly_searches": 2400,
+      "competition": "HIGH",
+      "competition_index": "74",
+      "low_bid": 0.878271,
+      "high_bid": 5.79
+    },
+    {
+      "keyword": "adu real estate",
+      "avg_monthly_searches": 2400,
+      "competition": "LOW",
+      "competition_index": "5",
+      "low_bid": 0.025067,
+      "high_bid": 2.06
+    },
+    {
+      "keyword": "installing outdoor lighting",
+      "avg_monthly_searches": 2400,
+      "competition": "LOW",
+      "competition_index": "33",
+      "low_bid": 3.18,
+      "high_bid": 18.0
+    },
+    {
+      "keyword": "adu build cost",
+      "avg_monthly_searches": 2400,
+      "competition": "LOW",
+      "competition_index": "6",
+      "low_bid": 1.523708,
+      "high_bid": 7.647689
+    },
+    {
+      "keyword": "adu in real estate",
+      "avg_monthly_searches": 2400,
+      "competition": "LOW",
+      "competition_index": "5",
+      "low_bid": 0.025067,
+      "high_bid": 2.06
+    },
+    {
+      "keyword": "accessory dwelling unit designs",
+      "avg_monthly_searches": 2400,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.53,
+      "high_bid": 3.97
+    },
+    {
+      "keyword": "adu floorplan",
+      "avg_monthly_searches": 2400,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.438046,
+      "high_bid": 2.49
+    },
+    {
+      "keyword": "kitchen backyard",
+      "avg_monthly_searches": 2400,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 1.767288,
+      "high_bid": 5.67891
+    },
+    {
+      "keyword": "backyard office",
+      "avg_monthly_searches": 1900,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.51,
+      "high_bid": 2.171032
+    },
+    {
+      "keyword": "outdoor kitchen bar",
+      "avg_monthly_searches": 1900,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 2.2,
+      "high_bid": 6.36
+    },
+    {
+      "keyword": "backyard house",
+      "avg_monthly_searches": 1900,
+      "competition": "HIGH",
+      "competition_index": "75",
+      "low_bid": 0.431171,
+      "high_bid": 4.7
+    },
+    {
+      "keyword": "adu accessory dwelling unit",
+      "avg_monthly_searches": 1900,
+      "competition": "LOW",
+      "competition_index": "7",
+      "low_bid": 0.63,
+      "high_bid": 5.301413
+    },
+    {
+      "keyword": "dwelling unit",
+      "avg_monthly_searches": 1900,
+      "competition": "LOW",
+      "competition_index": "3",
+      "low_bid": 1.061248,
+      "high_bid": 5.03
+    },
+    {
+      "keyword": "accessory dwelling units adus",
+      "avg_monthly_searches": 1900,
+      "competition": "LOW",
+      "competition_index": "2",
+      "low_bid": 0.434176,
+      "high_bid": 5.625483
+    },
+    {
+      "keyword": "dwell unit",
+      "avg_monthly_searches": 1900,
+      "competition": "LOW",
+      "competition_index": "3",
+      "low_bid": 1.061248,
+      "high_bid": 5.03
+    },
+    {
+      "keyword": "adu cost",
+      "avg_monthly_searches": 1600,
+      "competition": "MEDIUM",
+      "competition_index": "38",
+      "low_bid": 1.11,
+      "high_bid": 6.21232
+    },
+    {
+      "keyword": "backyard office shed",
+      "avg_monthly_searches": 1600,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.56,
+      "high_bid": 2.21
+    },
+    {
+      "keyword": "adu near me",
+      "avg_monthly_searches": 1600,
+      "competition": "LOW",
+      "competition_index": "27",
+      "low_bid": 2.2,
+      "high_bid": 13.15
+    },
+    {
+      "keyword": "adu house plans",
+      "avg_monthly_searches": 1600,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.344314,
+      "high_bid": 2.15
+    },
+    {
+      "keyword": "detached adu",
+      "avg_monthly_searches": 1600,
+      "competition": "LOW",
+      "competition_index": "7",
+      "low_bid": 1.24,
+      "high_bid": 6.784077
+    },
+    {
+      "keyword": "accessory dwelling unit cost",
+      "avg_monthly_searches": 1600,
+      "competition": "MEDIUM",
+      "competition_index": "38",
+      "low_bid": 1.11,
+      "high_bid": 6.21232
+    },
+    {
+      "keyword": "adu home plans",
+      "avg_monthly_searches": 1600,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.344314,
+      "high_bid": 2.15
+    },
+    {
+      "keyword": "home depot led outdoor lights",
+      "avg_monthly_searches": 1600,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.116587,
+      "high_bid": 0.899615
+    },
+    {
+      "keyword": "outdoor storage shed home depot",
+      "avg_monthly_searches": 1600,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.145389,
+      "high_bid": 1.26724
+    },
+    {
+      "keyword": "adu building permit",
+      "avg_monthly_searches": 1600,
+      "competition": "LOW",
+      "competition_index": "0",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "garage conversion adu",
+      "avg_monthly_searches": 1300,
+      "competition": "LOW",
+      "competition_index": "25",
+      "low_bid": 3.1,
+      "high_bid": 15.69
+    },
+    {
+      "keyword": "modular adu",
+      "avg_monthly_searches": 1300,
+      "competition": "HIGH",
+      "competition_index": "99",
+      "low_bid": 0.62329,
+      "high_bid": 3.99
+    },
+    {
+      "keyword": "outdoor kitchen on deck",
+      "avg_monthly_searches": 1300,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 2.36374,
+      "high_bid": 6.36
+    },
+    {
+      "keyword": "garage apartment conversion",
+      "avg_monthly_searches": 1300,
+      "competition": "LOW",
+      "competition_index": "12",
+      "low_bid": 0.591118,
+      "high_bid": 5.79
+    },
+    {
+      "keyword": "detached garage apartment",
+      "avg_monthly_searches": 1300,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.157928,
+      "high_bid": 2.4
+    },
+    {
+      "keyword": "adu permit",
+      "avg_monthly_searches": 1000,
+      "competition": "LOW",
+      "competition_index": "4",
+      "low_bid": 2.73,
+      "high_bid": 8.563346
+    },
+    {
+      "keyword": "backyard office pod",
+      "avg_monthly_searches": 1000,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.456699,
+      "high_bid": 2.6
+    },
+    {
+      "keyword": "backyard studio",
+      "avg_monthly_searches": 1000,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.59,
+      "high_bid": 3.1
+    },
+    {
+      "keyword": "home office shed",
+      "avg_monthly_searches": 1000,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.43,
+      "high_bid": 1.88
+    },
+    {
+      "keyword": "backyard pod",
+      "avg_monthly_searches": 1000,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.439627,
+      "high_bid": 1.6
+    },
+    {
+      "keyword": "adu stand for",
+      "avg_monthly_searches": 1000,
+      "competition": "LOW",
+      "competition_index": "3",
+      "low_bid": 0.2,
+      "high_bid": 4.583984
+    },
+    {
+      "keyword": "home depot patio light",
+      "avg_monthly_searches": 1000,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.127219,
+      "high_bid": 0.86
+    },
+    {
+      "keyword": "small front yard landscape",
+      "avg_monthly_searches": 1000,
+      "competition": "HIGH",
+      "competition_index": "94",
+      "low_bid": 0.9,
+      "high_bid": 4.35
+    },
+    {
+      "keyword": "accessory dwelling unit ideas",
+      "avg_monthly_searches": 1000,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.5,
+      "high_bid": 2.77
+    },
+    {
+      "keyword": "accessory dwelling units prefab",
+      "avg_monthly_searches": 1000,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.69,
+      "high_bid": 4.64
+    },
+    {
+      "keyword": "backyard home",
+      "avg_monthly_searches": 880,
+      "competition": "HIGH",
+      "competition_index": "98",
+      "low_bid": 0.78,
+      "high_bid": 4.321209
+    },
+    {
+      "keyword": "outdoor seating area",
+      "avg_monthly_searches": 880,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.581734,
+      "high_bid": 4.63
+    },
+    {
+      "keyword": "outdoor lights home depot",
+      "avg_monthly_searches": 880,
+      "competition": "HIGH",
+      "competition_index": "99",
+      "low_bid": 0.098724,
+      "high_bid": 0.706168
+    },
+    {
+      "keyword": "best outdoor lights for house",
+      "avg_monthly_searches": 880,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.498776,
+      "high_bid": 4.71
+    },
+    {
+      "keyword": "backyard cottage",
+      "avg_monthly_searches": 880,
+      "competition": "HIGH",
+      "competition_index": "92",
+      "low_bid": 0.58,
+      "high_bid": 4.997293
+    },
+    {
+      "keyword": "adu conversion cost",
+      "avg_monthly_searches": 880,
+      "competition": "LOW",
+      "competition_index": "2",
+      "low_bid": 3.417758,
+      "high_bid": 11.565863
+    },
+    {
+      "keyword": "backyard pool house",
+      "avg_monthly_searches": 880,
+      "competition": "HIGH",
+      "competition_index": "98",
+      "low_bid": 0.45,
+      "high_bid": 2.8
+    },
+    {
+      "keyword": "outside seating area",
+      "avg_monthly_searches": 880,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.581734,
+      "high_bid": 4.63
+    },
+    {
+      "keyword": "townhouse with backyard",
+      "avg_monthly_searches": 880,
+      "competition": "HIGH",
+      "competition_index": "78",
+      "low_bid": 0.744309,
+      "high_bid": 2.8
+    },
+    {
+      "keyword": "cabin tiny homes for sale",
+      "avg_monthly_searches": 880,
+      "competition": "HIGH",
+      "competition_index": "99",
+      "low_bid": 0.34,
+      "high_bid": 1.389981
+    },
+    {
+      "keyword": "an adu",
+      "avg_monthly_searches": 880,
+      "competition": "LOW",
+      "competition_index": "0",
+      "low_bid": 0.81,
+      "high_bid": 16.1
+    },
+    {
+      "keyword": "new adu",
+      "avg_monthly_searches": 880,
+      "competition": "LOW",
+      "competition_index": "10",
+      "low_bid": 0.314784,
+      "high_bid": 6.332996
+    },
+    {
+      "keyword": "pre approved adu plans",
+      "avg_monthly_searches": 720,
+      "competition": "LOW",
+      "competition_index": "20",
+      "low_bid": 1.54,
+      "high_bid": 6.96521
+    },
+    {
+      "keyword": "500 sq ft adu cost",
+      "avg_monthly_searches": 720,
+      "competition": "MEDIUM",
+      "competition_index": "47",
+      "low_bid": 1.64,
+      "high_bid": 6.179182
+    },
+    {
+      "keyword": "adu design ideas",
+      "avg_monthly_searches": 720,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.607522,
+      "high_bid": 3.462351
+    },
+    {
+      "keyword": "pre built adu",
+      "avg_monthly_searches": 720,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.747993,
+      "high_bid": 4.24
+    },
+    {
+      "keyword": "garage adu",
+      "avg_monthly_searches": 720,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 1.25,
+      "high_bid": 7.716987
+    },
+    {
+      "keyword": "cost to build adu",
+      "avg_monthly_searches": 720,
+      "competition": "MEDIUM",
+      "competition_index": "34",
+      "low_bid": 1.449993,
+      "high_bid": 5.729635
+    },
+    {
+      "keyword": "adu conversion",
+      "avg_monthly_searches": 720,
+      "competition": "LOW",
+      "competition_index": "9",
+      "low_bid": 3.47,
+      "high_bid": 15.014348
+    },
+    {
+      "keyword": "backyard guest house",
+      "avg_monthly_searches": 720,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.27062,
+      "high_bid": 1.87
+    },
+    {
+      "keyword": "custom adu builders",
+      "avg_monthly_searches": 720,
+      "competition": "LOW",
+      "competition_index": "7",
+      "low_bid": 2.81,
+      "high_bid": 25.0
+    },
+    {
+      "keyword": "adu apartments",
+      "avg_monthly_searches": 720,
+      "competition": "LOW",
+      "competition_index": "26",
+      "low_bid": 1.409667,
+      "high_bid": 5.81
+    },
+    {
+      "keyword": "auxiliary dwelling unit",
+      "avg_monthly_searches": 720,
+      "competition": "LOW",
+      "competition_index": "23",
+      "low_bid": 0.2875,
+      "high_bid": 4.02
+    },
+    {
+      "keyword": "adu garage conversion cost",
+      "avg_monthly_searches": 720,
+      "competition": "LOW",
+      "competition_index": "5",
+      "low_bid": 2.71,
+      "high_bid": 9.753257
+    },
+    {
+      "keyword": "attached adu",
+      "avg_monthly_searches": 720,
+      "competition": "LOW",
+      "competition_index": "15",
+      "low_bid": 1.69,
+      "high_bid": 6.903921
+    },
+    {
+      "keyword": "adu building plans",
+      "avg_monthly_searches": 720,
+      "competition": "HIGH",
+      "competition_index": "95",
+      "low_bid": 0.5025,
+      "high_bid": 4.274302
+    },
+    {
+      "keyword": "junior adu",
+      "avg_monthly_searches": 720,
+      "competition": "LOW",
+      "competition_index": "16",
+      "low_bid": 2.15,
+      "high_bid": 8.149999
+    },
+    {
+      "keyword": "cost of building an adu",
+      "avg_monthly_searches": 720,
+      "competition": "MEDIUM",
+      "competition_index": "34",
+      "low_bid": 1.449993,
+      "high_bid": 5.729635
+    },
+    {
+      "keyword": "outdoor kitchen roof",
+      "avg_monthly_searches": 720,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 2.11,
+      "high_bid": 6.36
+    },
+    {
+      "keyword": "houses with big backyards",
+      "avg_monthly_searches": 720,
+      "competition": "LOW",
+      "competition_index": "22",
+      "low_bid": 0.561461,
+      "high_bid": 3.372572
+    },
+    {
+      "keyword": "jr adu",
+      "avg_monthly_searches": 720,
+      "competition": "LOW",
+      "competition_index": "16",
+      "low_bid": 2.15,
+      "high_bid": 8.149999
+    },
+    {
+      "keyword": "backyard storage house",
+      "avg_monthly_searches": 720,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.267837,
+      "high_bid": 1.78
+    },
+    {
+      "keyword": "junior accessory dwelling unit",
+      "avg_monthly_searches": 720,
+      "competition": "LOW",
+      "competition_index": "16",
+      "low_bid": 2.15,
+      "high_bid": 8.149999
+    },
+    {
+      "keyword": "cost to build an accessory dwelling unit",
+      "avg_monthly_searches": 720,
+      "competition": "MEDIUM",
+      "competition_index": "34",
+      "low_bid": 1.449993,
+      "high_bid": 5.729635
+    },
+    {
+      "keyword": "city dwellings",
+      "avg_monthly_searches": 720,
+      "competition": "LOW",
+      "competition_index": "2",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu garage conversion",
+      "avg_monthly_searches": 590,
+      "competition": "LOW",
+      "competition_index": "28",
+      "low_bid": 2.82,
+      "high_bid": 12.07
+    },
+    {
+      "keyword": "adu construction near me",
+      "avg_monthly_searches": 590,
+      "competition": "LOW",
+      "competition_index": "14",
+      "low_bid": 5.067677,
+      "high_bid": 29.12111
+    },
+    {
+      "keyword": "outdoor entertainment area",
+      "avg_monthly_searches": 590,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 1.48,
+      "high_bid": 4.897525
+    },
+    {
+      "keyword": "backyard office prefab",
+      "avg_monthly_searches": 590,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.57,
+      "high_bid": 3.1
+    },
+    {
+      "keyword": "garage adu plans",
+      "avg_monthly_searches": 590,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.176956,
+      "high_bid": 2.13
+    },
+    {
+      "keyword": "small house for backyard",
+      "avg_monthly_searches": 590,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.3,
+      "high_bid": 2.47
+    },
+    {
+      "keyword": "garage conversion cost per square foot",
+      "avg_monthly_searches": 590,
+      "competition": "LOW",
+      "competition_index": "0",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu garage plans",
+      "avg_monthly_searches": 590,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.176956,
+      "high_bid": 2.13
+    },
+    {
+      "keyword": "outdoor fire pit area",
+      "avg_monthly_searches": 590,
+      "competition": "HIGH",
+      "competition_index": "99",
+      "low_bid": 0.266521,
+      "high_bid": 2.3
+    },
+    {
+      "keyword": "backyard infinity pool",
+      "avg_monthly_searches": 590,
+      "competition": "LOW",
+      "competition_index": "23",
+      "low_bid": 1.311366,
+      "high_bid": 8.44
+    },
+    {
+      "keyword": "building an accessory dwelling unit",
+      "avg_monthly_searches": 590,
+      "competition": "MEDIUM",
+      "competition_index": "55",
+      "low_bid": 0.98,
+      "high_bid": 10.98
+    },
+    {
+      "keyword": "2 story accessory dwelling unit",
+      "avg_monthly_searches": 590,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 1.23,
+      "high_bid": 5.306343
+    },
+    {
+      "keyword": "adu units for sale",
+      "avg_monthly_searches": 480,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.949036,
+      "high_bid": 5.23
+    },
+    {
+      "keyword": "adu companies near me",
+      "avg_monthly_searches": 480,
+      "competition": "HIGH",
+      "competition_index": "82",
+      "low_bid": 5.879021,
+      "high_bid": 38.308324
+    },
+    {
+      "keyword": "small adu",
+      "avg_monthly_searches": 480,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.695435,
+      "high_bid": 3.54
+    },
+    {
+      "keyword": "yard lights home depot",
+      "avg_monthly_searches": 480,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.088957,
+      "high_bid": 0.707162
+    },
+    {
+      "keyword": "adu floor plans 400 sq ft",
+      "avg_monthly_searches": 480,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.16,
+      "high_bid": 3.08
+    },
+    {
+      "keyword": "mini house for backyard",
+      "avg_monthly_searches": 480,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.246726,
+      "high_bid": 2.26
+    },
+    {
+      "keyword": "tiny house for backyard with bathroom",
+      "avg_monthly_searches": 480,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.282385,
+      "high_bid": 2.04
+    },
+    {
+      "keyword": "2 bedroom adu floor plans",
+      "avg_monthly_searches": 480,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.5,
+      "high_bid": 2.98
+    },
+    {
+      "keyword": "house with adu",
+      "avg_monthly_searches": 480,
+      "competition": "LOW",
+      "competition_index": "25",
+      "low_bid": 0.355602,
+      "high_bid": 3.545465
+    },
+    {
+      "keyword": "2 bedroom adu floor plan",
+      "avg_monthly_searches": 480,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.5,
+      "high_bid": 2.98
+    },
+    {
+      "keyword": "backyard fire pit area",
+      "avg_monthly_searches": 480,
+      "competition": "HIGH",
+      "competition_index": "96",
+      "low_bid": 0.157825,
+      "high_bid": 2.45
+    },
+    {
+      "keyword": "better home and garden solar lights",
+      "avg_monthly_searches": 480,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.049631,
+      "high_bid": 0.551277
+    },
+    {
+      "keyword": "granny builders",
+      "avg_monthly_searches": 480,
+      "competition": "LOW",
+      "competition_index": "1",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "patio in front of house",
+      "avg_monthly_searches": 480,
+      "competition": "HIGH",
+      "competition_index": "80",
+      "low_bid": 2.03,
+      "high_bid": 6.47
+    },
+    {
+      "keyword": "accessory dwelling unit garage",
+      "avg_monthly_searches": 480,
+      "competition": "HIGH",
+      "competition_index": "99",
+      "low_bid": 1.15,
+      "high_bid": 7.0
+    },
+    {
+      "keyword": "modern accessory dwelling unit",
+      "avg_monthly_searches": 480,
+      "competition": "HIGH",
+      "competition_index": "99",
+      "low_bid": 0.94,
+      "high_bid": 4.765451
+    },
+    {
+      "keyword": "build adu",
+      "avg_monthly_searches": 390,
+      "competition": "MEDIUM",
+      "competition_index": "36",
+      "low_bid": 1.73,
+      "high_bid": 10.82
+    },
+    {
+      "keyword": "garage adu conversion",
+      "avg_monthly_searches": 390,
+      "competition": "MEDIUM",
+      "competition_index": "40",
+      "low_bid": 2.88,
+      "high_bid": 14.001328
+    },
+    {
+      "keyword": "adu price",
+      "avg_monthly_searches": 390,
+      "competition": "HIGH",
+      "competition_index": "72",
+      "low_bid": 1.34,
+      "high_bid": 7.44
+    },
+    {
+      "keyword": "adu resource center",
+      "avg_monthly_searches": 390,
+      "competition": "LOW",
+      "competition_index": "15",
+      "low_bid": 1.785031,
+      "high_bid": 10.313165
+    },
+    {
+      "keyword": "adu floor plans 800 sq ft",
+      "avg_monthly_searches": 390,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.155594,
+      "high_bid": 2.24
+    },
+    {
+      "keyword": "prefab backyard studio",
+      "avg_monthly_searches": 390,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.62,
+      "high_bid": 3.0
+    },
+    {
+      "keyword": "tuff shed office",
+      "avg_monthly_searches": 390,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.68,
+      "high_bid": 3.23
+    },
+    {
+      "keyword": "adu floor plans 500 sq ft",
+      "avg_monthly_searches": 390,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.14936,
+      "high_bid": 2.79
+    },
+    {
+      "keyword": "adu in backyard",
+      "avg_monthly_searches": 390,
+      "competition": "HIGH",
+      "competition_index": "93",
+      "low_bid": 1.11,
+      "high_bid": 6.685534
+    },
+    {
+      "keyword": "adu plans for sale",
+      "avg_monthly_searches": 390,
+      "competition": "MEDIUM",
+      "competition_index": "66",
+      "low_bid": 0.801942,
+      "high_bid": 7.382854
+    },
+    {
+      "keyword": "adu property",
+      "avg_monthly_searches": 390,
+      "competition": "LOW",
+      "competition_index": "13",
+      "low_bid": 0.2,
+      "high_bid": 5.283014
+    },
+    {
+      "keyword": "adu tiny homes",
+      "avg_monthly_searches": 390,
+      "competition": "HIGH",
+      "competition_index": "99",
+      "low_bid": 0.572007,
+      "high_bid": 3.66
+    },
+    {
+      "keyword": "outdoor pool house",
+      "avg_monthly_searches": 390,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.469219,
+      "high_bid": 4.15
+    },
+    {
+      "keyword": "accessory dwelling",
+      "avg_monthly_searches": 390,
+      "competition": "LOW",
+      "competition_index": "13",
+      "low_bid": 0.135507,
+      "high_bid": 3.96
+    },
+    {
+      "keyword": "patio areas",
+      "avg_monthly_searches": 390,
+      "competition": "HIGH",
+      "competition_index": "84",
+      "low_bid": 2.0,
+      "high_bid": 9.88
+    },
+    {
+      "keyword": "500 sq ft adu plans",
+      "avg_monthly_searches": 390,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.327651,
+      "high_bid": 2.764406
+    },
+    {
+      "keyword": "1200 sq ft adu cost",
+      "avg_monthly_searches": 320,
+      "competition": "MEDIUM",
+      "competition_index": "53",
+      "low_bid": 1.55,
+      "high_bid": 6.092109
+    },
+    {
+      "keyword": "office pod backyard",
+      "avg_monthly_searches": 320,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.438145,
+      "high_bid": 2.885369
+    },
+    {
+      "keyword": "studio shed adu",
+      "avg_monthly_searches": 320,
+      "competition": "MEDIUM",
+      "competition_index": "57",
+      "low_bid": 1.03,
+      "high_bid": 6.163726
+    },
+    {
+      "keyword": "adu tiny house",
+      "avg_monthly_searches": 320,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.557004,
+      "high_bid": 3.712905
+    },
+    {
+      "keyword": "shipping container adu",
+      "avg_monthly_searches": 320,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.92,
+      "high_bid": 5.22
+    },
+    {
+      "keyword": "garage conversion adu cost",
+      "avg_monthly_searches": 320,
+      "competition": "LOW",
+      "competition_index": "24",
+      "low_bid": 3.078577,
+      "high_bid": 12.86
+    },
+    {
+      "keyword": "adu addition",
+      "avg_monthly_searches": 320,
+      "competition": "LOW",
+      "competition_index": "27",
+      "low_bid": 0.933659,
+      "high_bid": 9.159411
+    },
+    {
+      "keyword": "tiny home adu",
+      "avg_monthly_searches": 320,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.53,
+      "high_bid": 4.00275
+    },
+    {
+      "keyword": "adu with garage",
+      "avg_monthly_searches": 320,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.53,
+      "high_bid": 5.164236
+    },
+    {
+      "keyword": "adu dwelling unit",
+      "avg_monthly_searches": 320,
+      "competition": "MEDIUM",
+      "competition_index": "50",
+      "low_bid": 0.27,
+      "high_bid": 4.741874
+    },
+    {
+      "keyword": "tiny house adu",
+      "avg_monthly_searches": 320,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.557004,
+      "high_bid": 3.712905
+    },
+    {
+      "keyword": "500 sq ft adu",
+      "avg_monthly_searches": 320,
+      "competition": "HIGH",
+      "competition_index": "99",
+      "low_bid": 0.65,
+      "high_bid": 4.66
+    },
+    {
+      "keyword": "adu above garage",
+      "avg_monthly_searches": 320,
+      "competition": "HIGH",
+      "competition_index": "96",
+      "low_bid": 1.715842,
+      "high_bid": 7.0
+    },
+    {
+      "keyword": "adu home builders",
+      "avg_monthly_searches": 320,
+      "competition": "LOW",
+      "competition_index": "9",
+      "low_bid": 1.79,
+      "high_bid": 12.728923
+    },
+    {
+      "keyword": "adu layouts",
+      "avg_monthly_searches": 320,
+      "competition": "HIGH",
+      "competition_index": "99",
+      "low_bid": 0.67,
+      "high_bid": 3.76
+    },
+    {
+      "keyword": "1 bedroom adu floor plans",
+      "avg_monthly_searches": 320,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.5,
+      "high_bid": 2.56
+    },
+    {
+      "keyword": "granny unit",
+      "avg_monthly_searches": 320,
+      "competition": "LOW",
+      "competition_index": "29",
+      "low_bid": 0.64,
+      "high_bid": 3.44
+    },
+    {
+      "keyword": "houses with big backyards for sale",
+      "avg_monthly_searches": 320,
+      "competition": "MEDIUM",
+      "competition_index": "54",
+      "low_bid": 0.179969,
+      "high_bid": 3.075466
+    },
+    {
+      "keyword": "desert landscape backyard",
+      "avg_monthly_searches": 320,
+      "competition": "LOW",
+      "competition_index": "18",
+      "low_bid": 1.859666,
+      "high_bid": 5.26
+    },
+    {
+      "keyword": "1200 square foot adu",
+      "avg_monthly_searches": 320,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.8,
+      "high_bid": 5.11
+    },
+    {
+      "keyword": "small shed office",
+      "avg_monthly_searches": 320,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.425548,
+      "high_bid": 1.45
+    },
+    {
+      "keyword": "house adu",
+      "avg_monthly_searches": 320,
+      "competition": "LOW",
+      "competition_index": "10",
+      "low_bid": 0.44,
+      "high_bid": 4.6
+    },
+    {
+      "keyword": "800 sq ft adu floor plans",
+      "avg_monthly_searches": 320,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.15727,
+      "high_bid": 2.47
+    },
+    {
+      "keyword": "backyard entertainment",
+      "avg_monthly_searches": 320,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 1.20186,
+      "high_bid": 4.94
+    },
+    {
+      "keyword": "1200 sf adu",
+      "avg_monthly_searches": 320,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.8,
+      "high_bid": 5.11
+    },
+    {
+      "keyword": "outdoor kitchen pool house",
+      "avg_monthly_searches": 320,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 1.730558,
+      "high_bid": 5.6
+    },
+    {
+      "keyword": "housing adu",
+      "avg_monthly_searches": 320,
+      "competition": "LOW",
+      "competition_index": "10",
+      "low_bid": 0.44,
+      "high_bid": 4.6
+    },
+    {
+      "keyword": "pool house with outdoor kitchen",
+      "avg_monthly_searches": 320,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 1.730558,
+      "high_bid": 5.6
+    },
+    {
+      "keyword": "adu plans 2 bedroom",
+      "avg_monthly_searches": 320,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.5,
+      "high_bid": 2.89
+    },
+    {
+      "keyword": "home infinity pool",
+      "avg_monthly_searches": 320,
+      "competition": "LOW",
+      "competition_index": "3",
+      "low_bid": 0.85,
+      "high_bid": 3.307495
+    },
+    {
+      "keyword": "townhouse backyard",
+      "avg_monthly_searches": 320,
+      "competition": "LOW",
+      "competition_index": "22",
+      "low_bid": 1.68,
+      "high_bid": 6.09
+    },
+    {
+      "keyword": "wnep home and backyard",
+      "avg_monthly_searches": 320,
+      "competition": "LOW",
+      "competition_index": "0",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "granny flat builder",
+      "avg_monthly_searches": 260,
+      "competition": "LOW",
+      "competition_index": "2",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "cost of adu",
+      "avg_monthly_searches": 260,
+      "competition": "MEDIUM",
+      "competition_index": "53",
+      "low_bid": 0.83,
+      "high_bid": 4.86
+    },
+    {
+      "keyword": "floor decking outdoor",
+      "avg_monthly_searches": 260,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 1.166199,
+      "high_bid": 4.26338
+    },
+    {
+      "keyword": "adu office",
+      "avg_monthly_searches": 260,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.62,
+      "high_bid": 4.792637
+    },
+    {
+      "keyword": "adu blueprints",
+      "avg_monthly_searches": 260,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.5,
+      "high_bid": 5.16
+    },
+    {
+      "keyword": "adu cost to build",
+      "avg_monthly_searches": 260,
+      "competition": "MEDIUM",
+      "competition_index": "47",
+      "low_bid": 0.94,
+      "high_bid": 5.468266
+    },
+    {
+      "keyword": "adu garage conversion plans",
+      "avg_monthly_searches": 260,
+      "competition": "MEDIUM",
+      "competition_index": "62",
+      "low_bid": 1.52,
+      "high_bid": 8.43
+    },
+    {
+      "keyword": "2 story adu plans",
+      "avg_monthly_searches": 260,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.75,
+      "high_bid": 4.23
+    },
+    {
+      "keyword": "2 bedroom adu plans",
+      "avg_monthly_searches": 260,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.5,
+      "high_bid": 2.86
+    },
+    {
+      "keyword": "adu over garage",
+      "avg_monthly_searches": 260,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 1.78,
+      "high_bid": 8.525416
+    },
+    {
+      "keyword": "adu floor plans 600 sq ft",
+      "avg_monthly_searches": 260,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.129999,
+      "high_bid": 2.29
+    },
+    {
+      "keyword": "office shed for backyard",
+      "avg_monthly_searches": 260,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.61,
+      "high_bid": 2.49
+    },
+    {
+      "keyword": "home depot solar outdoor lights",
+      "avg_monthly_searches": 260,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.09,
+      "high_bid": 0.422798
+    },
+    {
+      "keyword": "modern patio pavers",
+      "avg_monthly_searches": 260,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 2.02,
+      "high_bid": 6.24
+    },
+    {
+      "keyword": "600 sq ft adu",
+      "avg_monthly_searches": 260,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.397251,
+      "high_bid": 3.94
+    },
+    {
+      "keyword": "modern adu plans",
+      "avg_monthly_searches": 260,
+      "competition": "HIGH",
+      "competition_index": "98",
+      "low_bid": 0.36,
+      "high_bid": 2.92
+    },
+    {
+      "keyword": "small backyard guest house",
+      "avg_monthly_searches": 260,
+      "competition": "HIGH",
+      "competition_index": "95",
+      "low_bid": 0.264645,
+      "high_bid": 7.219783
+    },
+    {
+      "keyword": "adu permit process",
+      "avg_monthly_searches": 260,
+      "competition": "LOW",
+      "competition_index": "1",
+      "low_bid": 3.66,
+      "high_bid": 6.46
+    },
+    {
+      "keyword": "adu construction plans",
+      "avg_monthly_searches": 260,
+      "competition": "HIGH",
+      "competition_index": "73",
+      "low_bid": 0.88,
+      "high_bid": 3.61
+    },
+    {
+      "keyword": "backyard adu plans",
+      "avg_monthly_searches": 260,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.45,
+      "high_bid": 2.461499
+    },
+    {
+      "keyword": "your texas patio",
+      "avg_monthly_searches": 260,
+      "competition": "LOW",
+      "competition_index": "24",
+      "low_bid": 5.28,
+      "high_bid": 16.790228
+    },
+    {
+      "keyword": "adu in",
+      "avg_monthly_searches": 260,
+      "competition": "LOW",
+      "competition_index": "9",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "fannie mae accessory dwelling unit",
+      "avg_monthly_searches": 260,
+      "competition": "LOW",
+      "competition_index": "5",
+      "low_bid": 1.98,
+      "high_bid": 2.57
+    },
+    {
+      "keyword": "affordable adu",
+      "avg_monthly_searches": 210,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.905427,
+      "high_bid": 9.070801
+    },
+    {
+      "keyword": "backyard adu prefab",
+      "avg_monthly_searches": 210,
+      "competition": "HIGH",
+      "competition_index": "99",
+      "low_bid": 0.519999,
+      "high_bid": 4.86
+    },
+    {
+      "keyword": "build granny flat",
+      "avg_monthly_searches": 210,
+      "competition": "LOW",
+      "competition_index": "15",
+      "low_bid": 0.6,
+      "high_bid": 4.232148
+    },
+    {
+      "keyword": "adu dwelling",
+      "avg_monthly_searches": 210,
+      "competition": "MEDIUM",
+      "competition_index": "35",
+      "low_bid": 0.23,
+      "high_bid": 4.29086
+    },
+    {
+      "keyword": "adu backyard homes",
+      "avg_monthly_searches": 210,
+      "competition": "HIGH",
+      "competition_index": "98",
+      "low_bid": 0.69,
+      "high_bid": 5.570108
+    },
+    {
+      "keyword": "small adu floor plans",
+      "avg_monthly_searches": 210,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.597698,
+      "high_bid": 3.293268
+    },
+    {
+      "keyword": "garden lights home depot",
+      "avg_monthly_searches": 210,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.125388,
+      "high_bid": 0.643129
+    },
+    {
+      "keyword": "adu permit cost",
+      "avg_monthly_searches": 210,
+      "competition": "LOW",
+      "competition_index": "27",
+      "low_bid": 1.935987,
+      "high_bid": 7.93
+    },
+    {
+      "keyword": "above garage adu",
+      "avg_monthly_searches": 210,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 2.04,
+      "high_bid": 8.98
+    },
+    {
+      "keyword": "prefab adu companies",
+      "avg_monthly_searches": 210,
+      "competition": "HIGH",
+      "competition_index": "90",
+      "low_bid": 1.565419,
+      "high_bid": 12.39
+    },
+    {
+      "keyword": "800 sq ft adu",
+      "avg_monthly_searches": 210,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.81,
+      "high_bid": 3.94
+    },
+    {
+      "keyword": "office pod for backyard",
+      "avg_monthly_searches": 210,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.53,
+      "high_bid": 2.87
+    },
+    {
+      "keyword": "800 sq ft adu cost",
+      "avg_monthly_searches": 210,
+      "competition": "MEDIUM",
+      "competition_index": "57",
+      "low_bid": 1.59,
+      "high_bid": 5.661625
+    },
+    {
+      "keyword": "20x20 adu plans",
+      "avg_monthly_searches": 210,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.5,
+      "high_bid": 2.79216
+    },
+    {
+      "keyword": "alternate dwelling unit",
+      "avg_monthly_searches": 210,
+      "competition": "MEDIUM",
+      "competition_index": "44",
+      "low_bid": 0.349251,
+      "high_bid": 3.36
+    },
+    {
+      "keyword": "diy outdoor kitchen island",
+      "avg_monthly_searches": 210,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.678945,
+      "high_bid": 4.843503
+    },
+    {
+      "keyword": "l shaped adu",
+      "avg_monthly_searches": 210,
+      "competition": "MEDIUM",
+      "competition_index": "39",
+      "low_bid": 1.52,
+      "high_bid": 4.711591
+    },
+    {
+      "keyword": "outdoor living area with fireplace",
+      "avg_monthly_searches": 210,
+      "competition": "HIGH",
+      "competition_index": "91",
+      "low_bid": 1.82,
+      "high_bid": 6.35
+    },
+    {
+      "keyword": "900 sq ft adu plans",
+      "avg_monthly_searches": 210,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.10082,
+      "high_bid": 2.61
+    },
+    {
+      "keyword": "beautiful backyards with pools",
+      "avg_monthly_searches": 210,
+      "competition": "MEDIUM",
+      "competition_index": "39",
+      "low_bid": 0.681009,
+      "high_bid": 4.54
+    },
+    {
+      "keyword": "outdoor house shed",
+      "avg_monthly_searches": 210,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.498078,
+      "high_bid": 1.85
+    },
+    {
+      "keyword": "resort style backyard",
+      "avg_monthly_searches": 210,
+      "competition": "HIGH",
+      "competition_index": "67",
+      "low_bid": 1.55,
+      "high_bid": 6.28
+    },
+    {
+      "keyword": "900 sq ft adu",
+      "avg_monthly_searches": 210,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.330349,
+      "high_bid": 3.76
+    },
+    {
+      "keyword": "mid century modern backyard",
+      "avg_monthly_searches": 210,
+      "competition": "HIGH",
+      "competition_index": "98",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "outdoor lighting services near me",
+      "avg_monthly_searches": 170,
+      "competition": "LOW",
+      "competition_index": "27",
+      "low_bid": 2.795311,
+      "high_bid": 33.7151
+    },
+    {
+      "keyword": "garage to adu conversion",
+      "avg_monthly_searches": 170,
+      "competition": "MEDIUM",
+      "competition_index": "38",
+      "low_bid": 2.798284,
+      "high_bid": 13.315228
+    },
+    {
+      "keyword": "cost to convert garage to adu",
+      "avg_monthly_searches": 170,
+      "competition": "MEDIUM",
+      "competition_index": "34",
+      "low_bid": 1.96,
+      "high_bid": 6.84
+    },
+    {
+      "keyword": "backyard home office",
+      "avg_monthly_searches": 170,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.564662,
+      "high_bid": 2.12
+    },
+    {
+      "keyword": "tiny office shed",
+      "avg_monthly_searches": 170,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.400307,
+      "high_bid": 1.33
+    },
+    {
+      "keyword": "garage conversion to adu",
+      "avg_monthly_searches": 170,
+      "competition": "MEDIUM",
+      "competition_index": "34",
+      "low_bid": 2.38,
+      "high_bid": 12.93
+    },
+    {
+      "keyword": "backyard office kit",
+      "avg_monthly_searches": 170,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.47,
+      "high_bid": 1.967079
+    },
+    {
+      "keyword": "1200 sq ft adu plans",
+      "avg_monthly_searches": 170,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.200251,
+      "high_bid": 3.66
+    },
+    {
+      "keyword": "garage adu conversion plans",
+      "avg_monthly_searches": 170,
+      "competition": "HIGH",
+      "competition_index": "86",
+      "low_bid": 1.595345,
+      "high_bid": 4.75
+    },
+    {
+      "keyword": "adu above garage plans",
+      "avg_monthly_searches": 170,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.5,
+      "high_bid": 3.870949
+    },
+    {
+      "keyword": "studio adu floor plans",
+      "avg_monthly_searches": 170,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.5,
+      "high_bid": 3.07
+    },
+    {
+      "keyword": "lowes outdoor lights for house",
+      "avg_monthly_searches": 170,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.225414,
+      "high_bid": 1.2
+    },
+    {
+      "keyword": "adu attached to house",
+      "avg_monthly_searches": 170,
+      "competition": "HIGH",
+      "competition_index": "80",
+      "low_bid": 1.67,
+      "high_bid": 8.571632
+    },
+    {
+      "keyword": "backyard guest house with bathroom",
+      "avg_monthly_searches": 170,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.367371,
+      "high_bid": 2.9
+    },
+    {
+      "keyword": "accessible dwelling unit",
+      "avg_monthly_searches": 170,
+      "competition": "LOW",
+      "competition_index": "14",
+      "low_bid": 0.287574,
+      "high_bid": 4.29
+    },
+    {
+      "keyword": "adu over garage plans",
+      "avg_monthly_searches": 170,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.378204,
+      "high_bid": 4.062411
+    },
+    {
+      "keyword": "backyard homes for sale",
+      "avg_monthly_searches": 170,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.519999,
+      "high_bid": 2.31171
+    },
+    {
+      "keyword": "adu floor plans 300 sq ft",
+      "avg_monthly_searches": 170,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.381962,
+      "high_bid": 5.12
+    },
+    {
+      "keyword": "outdoor patio area",
+      "avg_monthly_searches": 170,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 1.0,
+      "high_bid": 5.46
+    },
+    {
+      "keyword": "adu home addition",
+      "avg_monthly_searches": 170,
+      "competition": "LOW",
+      "competition_index": "14",
+      "low_bid": 1.111023,
+      "high_bid": 8.67
+    },
+    {
+      "keyword": "diy outdoor grill island",
+      "avg_monthly_searches": 170,
+      "competition": "HIGH",
+      "competition_index": "97",
+      "low_bid": 0.600055,
+      "high_bid": 4.202909
+    },
+    {
+      "keyword": "backyard houses for sale",
+      "avg_monthly_searches": 170,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.519999,
+      "high_bid": 2.31171
+    },
+    {
+      "keyword": "400 sq ft adu floor plan",
+      "avg_monthly_searches": 170,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.198426,
+      "high_bid": 4.84
+    },
+    {
+      "keyword": "garage with adu",
+      "avg_monthly_searches": 170,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.471067,
+      "high_bid": 4.3
+    },
+    {
+      "keyword": "1 bedroom adu plans",
+      "avg_monthly_searches": 170,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.377324,
+      "high_bid": 2.18
+    },
+    {
+      "keyword": "fire pit area backyard",
+      "avg_monthly_searches": 170,
+      "competition": "HIGH",
+      "competition_index": "99",
+      "low_bid": 0.89,
+      "high_bid": 3.561241
+    },
+    {
+      "keyword": "500 sq ft adu floor plans",
+      "avg_monthly_searches": 170,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.265335,
+      "high_bid": 3.892523
+    },
+    {
+      "keyword": "accessory apartment",
+      "avg_monthly_searches": 170,
+      "competition": "LOW",
+      "competition_index": "2",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "accessory dwelling unit plumbing",
+      "avg_monthly_searches": 170,
+      "competition": "LOW",
+      "competition_index": "5",
+      "low_bid": 10.0,
+      "high_bid": 30.19915
+    },
+    {
+      "keyword": "medcottage granny pod",
+      "avg_monthly_searches": 170,
+      "competition": "LOW",
+      "competition_index": "2",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "townhouse patio",
+      "avg_monthly_searches": 170,
+      "competition": "MEDIUM",
+      "competition_index": "43",
+      "low_bid": 0.319256,
+      "high_bid": 5.25
+    },
+    {
+      "keyword": "adu cost per square foot",
+      "avg_monthly_searches": 140,
+      "competition": "MEDIUM",
+      "competition_index": "37",
+      "low_bid": 1.66,
+      "high_bid": 6.22
+    },
+    {
+      "keyword": "adu apartments near me",
+      "avg_monthly_searches": 140,
+      "competition": "HIGH",
+      "competition_index": "92",
+      "low_bid": 1.52,
+      "high_bid": 5.35
+    },
+    {
+      "keyword": "adu design plans",
+      "avg_monthly_searches": 140,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.53,
+      "high_bid": 3.88
+    },
+    {
+      "keyword": "garden shed summer house",
+      "avg_monthly_searches": 140,
+      "competition": "MEDIUM",
+      "competition_index": "64",
+      "low_bid": 0.562389,
+      "high_bid": 1.925
+    },
+    {
+      "keyword": "adu homes near me",
+      "avg_monthly_searches": 140,
+      "competition": "HIGH",
+      "competition_index": "75",
+      "low_bid": 1.14,
+      "high_bid": 6.54
+    },
+    {
+      "keyword": "2 bedroom adu cost",
+      "avg_monthly_searches": 140,
+      "competition": "HIGH",
+      "competition_index": "68",
+      "low_bid": 1.971217,
+      "high_bid": 7.78
+    },
+    {
+      "keyword": "prefab outdoor office pod",
+      "avg_monthly_searches": 140,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.238982,
+      "high_bid": 3.012907
+    },
+    {
+      "keyword": "building adu in backyard",
+      "avg_monthly_searches": 140,
+      "competition": "HIGH",
+      "competition_index": "82",
+      "low_bid": 1.43,
+      "high_bid": 8.382196
+    },
+    {
+      "keyword": "300 sq ft adu",
+      "avg_monthly_searches": 140,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 1.915139,
+      "high_bid": 7.09
+    },
+    {
+      "keyword": "prefab adu with garage",
+      "avg_monthly_searches": 140,
+      "competition": "HIGH",
+      "competition_index": "99",
+      "low_bid": 1.039999,
+      "high_bid": 4.01
+    },
+    {
+      "keyword": "adu on top of garage",
+      "avg_monthly_searches": 140,
+      "competition": "HIGH",
+      "competition_index": "79",
+      "low_bid": 2.25,
+      "high_bid": 8.02
+    },
+    {
+      "keyword": "prefab backyard homes",
+      "avg_monthly_searches": 140,
+      "competition": "HIGH",
+      "competition_index": "90",
+      "low_bid": 0.5,
+      "high_bid": 2.444132
+    },
+    {
+      "keyword": "adu house cost",
+      "avg_monthly_searches": 140,
+      "competition": "HIGH",
+      "competition_index": "77",
+      "low_bid": 1.11,
+      "high_bid": 5.561082
+    },
+    {
+      "keyword": "1000 sq ft adu plans",
+      "avg_monthly_searches": 140,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.211603,
+      "high_bid": 2.38
+    },
+    {
+      "keyword": "backyard studio with bathroom",
+      "avg_monthly_searches": 140,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.59,
+      "high_bid": 5.381431
+    },
+    {
+      "keyword": "400 sq ft adu plans",
+      "avg_monthly_searches": 140,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.230818,
+      "high_bid": 3.990708
+    },
+    {
+      "keyword": "backyard studio office",
+      "avg_monthly_searches": 140,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.75,
+      "high_bid": 2.462149
+    },
+    {
+      "keyword": "garage with adu above",
+      "avg_monthly_searches": 140,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.553934,
+      "high_bid": 5.81
+    },
+    {
+      "keyword": "adu floor plans 1000 sq ft",
+      "avg_monthly_searches": 140,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.112089,
+      "high_bid": 1.99
+    },
+    {
+      "keyword": "2 car garage adu plans",
+      "avg_monthly_searches": 140,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.253381,
+      "high_bid": 2.98
+    },
+    {
+      "keyword": "house plans with attached adu",
+      "avg_monthly_searches": 140,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.3,
+      "high_bid": 2.2
+    },
+    {
+      "keyword": "little house for backyard",
+      "avg_monthly_searches": 140,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.186969,
+      "high_bid": 1.51
+    },
+    {
+      "keyword": "adu on property",
+      "avg_monthly_searches": 140,
+      "competition": "LOW",
+      "competition_index": "11",
+      "low_bid": 0.193391,
+      "high_bid": 6.694847
+    },
+    {
+      "keyword": "adu housing cost",
+      "avg_monthly_searches": 140,
+      "competition": "MEDIUM",
+      "competition_index": "43",
+      "low_bid": 0.465511,
+      "high_bid": 3.31
+    },
+    {
+      "keyword": "adu layout ideas",
+      "avg_monthly_searches": 140,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.5,
+      "high_bid": 3.01
+    },
+    {
+      "keyword": "tiny backyard office",
+      "avg_monthly_searches": 140,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.228139,
+      "high_bid": 0.8
+    },
+    {
+      "keyword": "adu law",
+      "avg_monthly_searches": 140,
+      "competition": "LOW",
+      "competition_index": "6",
+      "low_bid": 0.2,
+      "high_bid": 13.963838
+    },
+    {
+      "keyword": "backyard seating area",
+      "avg_monthly_searches": 140,
+      "competition": "HIGH",
+      "competition_index": "99",
+      "low_bid": 0.621889,
+      "high_bid": 5.31
+    },
+    {
+      "keyword": "types of adu",
+      "avg_monthly_searches": 140,
+      "competition": "LOW",
+      "competition_index": "22",
+      "low_bid": 1.72,
+      "high_bid": 5.01
+    },
+    {
+      "keyword": "300 square foot adu",
+      "avg_monthly_searches": 140,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 1.915139,
+      "high_bid": 7.09
+    },
+    {
+      "keyword": "adu zoning",
+      "avg_monthly_searches": 140,
+      "competition": "LOW",
+      "competition_index": "6",
+      "low_bid": 1.16,
+      "high_bid": 3.772132
+    },
+    {
+      "keyword": "build garage apartment",
+      "avg_monthly_searches": 140,
+      "competition": "HIGH",
+      "competition_index": "99",
+      "low_bid": 0.358328,
+      "high_bid": 2.116505
+    },
+    {
+      "keyword": "accessory unit",
+      "avg_monthly_searches": 140,
+      "competition": "LOW",
+      "competition_index": "4",
+      "low_bid": 2.461687,
+      "high_bid": 5.34
+    },
+    {
+      "keyword": "small backyard with pool and outdoor kitchen",
+      "avg_monthly_searches": 140,
+      "competition": "HIGH",
+      "competition_index": "79",
+      "low_bid": 1.93,
+      "high_bid": 4.039069
+    },
+    {
+      "keyword": "legal adu",
+      "avg_monthly_searches": 140,
+      "competition": "LOW",
+      "competition_index": "6",
+      "low_bid": 0.2,
+      "high_bid": 13.963838
+    },
+    {
+      "keyword": "accessory dwelling unit long beach",
+      "avg_monthly_searches": 140,
+      "competition": "MEDIUM",
+      "competition_index": "62",
+      "low_bid": 4.841781,
+      "high_bid": 23.94
+    },
+    {
+      "keyword": "city of dwellings",
+      "avg_monthly_searches": 140,
+      "competition": "LOW",
+      "competition_index": "0",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "garage apartment conversion cost",
+      "avg_monthly_searches": 140,
+      "competition": "LOW",
+      "competition_index": "1",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "modern farmhouse backyard",
+      "avg_monthly_searches": 140,
+      "competition": "MEDIUM",
+      "competition_index": "39",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "modern house backyard",
+      "avg_monthly_searches": 140,
+      "competition": "LOW",
+      "competition_index": "13",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "garage adu conversion cost",
+      "avg_monthly_searches": 110,
+      "competition": "LOW",
+      "competition_index": "31",
+      "low_bid": 2.701273,
+      "high_bid": 10.3
+    },
+    {
+      "keyword": "permit ready adu plans",
+      "avg_monthly_searches": 110,
+      "competition": "MEDIUM",
+      "competition_index": "55",
+      "low_bid": 0.53,
+      "high_bid": 4.363866
+    },
+    {
+      "keyword": "best adu",
+      "avg_monthly_searches": 110,
+      "competition": "HIGH",
+      "competition_index": "99",
+      "low_bid": 1.25,
+      "high_bid": 11.047093
+    },
+    {
+      "keyword": "prefab outdoor office",
+      "avg_monthly_searches": 110,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.63,
+      "high_bid": 2.58895
+    },
+    {
+      "keyword": "cost of an adu",
+      "avg_monthly_searches": 110,
+      "competition": "HIGH",
+      "competition_index": "67",
+      "low_bid": 0.77391,
+      "high_bid": 5.197506
+    },
+    {
+      "keyword": "adu plans free",
+      "avg_monthly_searches": 110,
+      "competition": "HIGH",
+      "competition_index": "89",
+      "low_bid": 0.278488,
+      "high_bid": 4.20488
+    },
+    {
+      "keyword": "mobile adu",
+      "avg_monthly_searches": 110,
+      "competition": "HIGH",
+      "competition_index": "99",
+      "low_bid": 0.56,
+      "high_bid": 3.28
+    },
+    {
+      "keyword": "prefab adu units",
+      "avg_monthly_searches": 110,
+      "competition": "MEDIUM",
+      "competition_index": "61",
+      "low_bid": 0.91,
+      "high_bid": 5.38722
+    },
+    {
+      "keyword": "adu construction cost per square foot",
+      "avg_monthly_searches": 110,
+      "competition": "LOW",
+      "competition_index": "14",
+      "low_bid": 2.95,
+      "high_bid": 10.8
+    },
+    {
+      "keyword": "adu housing near me",
+      "avg_monthly_searches": 110,
+      "competition": "MEDIUM",
+      "competition_index": "51",
+      "low_bid": 1.341599,
+      "high_bid": 5.77
+    },
+    {
+      "keyword": "adu floor plans 1200 sq ft",
+      "avg_monthly_searches": 110,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.21,
+      "high_bid": 2.87
+    },
+    {
+      "keyword": "type five adu",
+      "avg_monthly_searches": 110,
+      "competition": "MEDIUM",
+      "competition_index": "62",
+      "low_bid": 3.937969,
+      "high_bid": 14.04
+    },
+    {
+      "keyword": "750 sq ft adu plans",
+      "avg_monthly_searches": 110,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.086269,
+      "high_bid": 2.68
+    },
+    {
+      "keyword": "adu above garage cost",
+      "avg_monthly_searches": 110,
+      "competition": "HIGH",
+      "competition_index": "77",
+      "low_bid": 1.845265,
+      "high_bid": 6.01
+    },
+    {
+      "keyword": "backyard guest house with bathroom and kitchen",
+      "avg_monthly_searches": 110,
+      "competition": "HIGH",
+      "competition_index": "99",
+      "low_bid": 0.366991,
+      "high_bid": 2.83
+    },
+    {
+      "keyword": "600 sq ft adu plans",
+      "avg_monthly_searches": 110,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.216241,
+      "high_bid": 2.069999
+    },
+    {
+      "keyword": "modern adu designs",
+      "avg_monthly_searches": 110,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.8,
+      "high_bid": 3.83
+    },
+    {
+      "keyword": "adu on wheels",
+      "avg_monthly_searches": 110,
+      "competition": "HIGH",
+      "competition_index": "99",
+      "low_bid": 0.8,
+      "high_bid": 6.87
+    },
+    {
+      "keyword": "adu guest house",
+      "avg_monthly_searches": 110,
+      "competition": "MEDIUM",
+      "competition_index": "34",
+      "low_bid": 1.65,
+      "high_bid": 4.68
+    },
+    {
+      "keyword": "best adu builders",
+      "avg_monthly_searches": 110,
+      "competition": "MEDIUM",
+      "competition_index": "34",
+      "low_bid": 3.954651,
+      "high_bid": 37.040472
+    },
+    {
+      "keyword": "detached adu plans",
+      "avg_monthly_searches": 110,
+      "competition": "MEDIUM",
+      "competition_index": "52",
+      "low_bid": 0.36,
+      "high_bid": 2.44
+    },
+    {
+      "keyword": "adu with garage plans",
+      "avg_monthly_searches": 110,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.169802,
+      "high_bid": 2.66
+    },
+    {
+      "keyword": "small adu plans",
+      "avg_monthly_searches": 110,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.36,
+      "high_bid": 2.199287
+    },
+    {
+      "keyword": "free adu plans",
+      "avg_monthly_searches": 110,
+      "competition": "MEDIUM",
+      "competition_index": "45",
+      "low_bid": 1.41,
+      "high_bid": 5.0
+    },
+    {
+      "keyword": "adu plans with garage",
+      "avg_monthly_searches": 110,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.355669,
+      "high_bid": 2.56
+    },
+    {
+      "keyword": "adu in housing",
+      "avg_monthly_searches": 110,
+      "competition": "LOW",
+      "competition_index": "6",
+      "low_bid": 0.09649,
+      "high_bid": 4.4
+    },
+    {
+      "keyword": "backyard entertainment area",
+      "avg_monthly_searches": 110,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 1.83,
+      "high_bid": 6.0
+    },
+    {
+      "keyword": "2 story adu floor plans",
+      "avg_monthly_searches": 110,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 1.162677,
+      "high_bid": 3.81
+    },
+    {
+      "keyword": "home depot backyard discovery",
+      "avg_monthly_searches": 110,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.601216,
+      "high_bid": 3.0
+    },
+    {
+      "keyword": "adu floor plans 900 sq ft",
+      "avg_monthly_searches": 110,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.077016,
+      "high_bid": 2.01
+    },
+    {
+      "keyword": "garage adu floor plan",
+      "avg_monthly_searches": 110,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.260693,
+      "high_bid": 3.851095
+    },
+    {
+      "keyword": "covered outdoor seating area",
+      "avg_monthly_searches": 110,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 2.266792,
+      "high_bid": 8.43
+    },
+    {
+      "keyword": "home backyard",
+      "avg_monthly_searches": 110,
+      "competition": "MEDIUM",
+      "competition_index": "43",
+      "low_bid": 1.92,
+      "high_bid": 3.55
+    },
+    {
+      "keyword": "fire pit areas in backyard",
+      "avg_monthly_searches": 110,
+      "competition": "HIGH",
+      "competition_index": "94",
+      "low_bid": 0.057408,
+      "high_bid": 2.36
+    },
+    {
+      "keyword": "accessory commercial units",
+      "avg_monthly_searches": 110,
+      "competition": "LOW",
+      "competition_index": "0",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "in real estate what is an adu",
+      "avg_monthly_searches": 110,
+      "competition": "LOW",
+      "competition_index": "6",
+      "low_bid": 0.019953,
+      "high_bid": 0.2
+    },
+    {
+      "keyword": "mediterranean style backyard",
+      "avg_monthly_searches": 110,
+      "competition": "LOW",
+      "competition_index": "31",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "mid century backyard",
+      "avg_monthly_searches": 110,
+      "competition": "HIGH",
+      "competition_index": "75",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "garage to adu conversion cost",
+      "avg_monthly_searches": 90,
+      "competition": "LOW",
+      "competition_index": "30",
+      "low_bid": 3.12,
+      "high_bid": 12.13
+    },
+    {
+      "keyword": "adu housing list",
+      "avg_monthly_searches": 90,
+      "competition": "LOW",
+      "competition_index": "24",
+      "low_bid": 2.12,
+      "high_bid": 7.29
+    },
+    {
+      "keyword": "best adu designs",
+      "avg_monthly_searches": 90,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.866772,
+      "high_bid": 4.382239
+    },
+    {
+      "keyword": "buy adu",
+      "avg_monthly_searches": 90,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.96,
+      "high_bid": 5.877041
+    },
+    {
+      "keyword": "adu homes cost",
+      "avg_monthly_searches": 90,
+      "competition": "HIGH",
+      "competition_index": "84",
+      "low_bid": 0.61,
+      "high_bid": 4.6
+    },
+    {
+      "keyword": "prefab backyard guest house",
+      "avg_monthly_searches": 90,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.55,
+      "high_bid": 2.65
+    },
+    {
+      "keyword": "outdoor patio room",
+      "avg_monthly_searches": 90,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 2.145211,
+      "high_bid": 8.333782
+    },
+    {
+      "keyword": "tiny adu",
+      "avg_monthly_searches": 90,
+      "competition": "HIGH",
+      "competition_index": "98",
+      "low_bid": 0.401111,
+      "high_bid": 2.11
+    },
+    {
+      "keyword": "prefabricated bathroom unit",
+      "avg_monthly_searches": 90,
+      "competition": "HIGH",
+      "competition_index": "68",
+      "low_bid": 1.01,
+      "high_bid": 11.468694
+    },
+    {
+      "keyword": "auxiliary housing unit",
+      "avg_monthly_searches": 90,
+      "competition": "LOW",
+      "competition_index": "20",
+      "low_bid": 0.16,
+      "high_bid": 3.11
+    },
+    {
+      "keyword": "auxiliary dwelling unit plans",
+      "avg_monthly_searches": 90,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.264202,
+      "high_bid": 1.36
+    },
+    {
+      "keyword": "adu cost breakdown",
+      "avg_monthly_searches": 90,
+      "competition": "LOW",
+      "competition_index": "24",
+      "low_bid": 2.361013,
+      "high_bid": 5.91
+    },
+    {
+      "keyword": "two story adu plans",
+      "avg_monthly_searches": 90,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.36,
+      "high_bid": 3.29
+    },
+    {
+      "keyword": "small backyard office",
+      "avg_monthly_searches": 90,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.397032,
+      "high_bid": 1.92
+    },
+    {
+      "keyword": "patio seating area",
+      "avg_monthly_searches": 90,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.382807,
+      "high_bid": 2.900713
+    },
+    {
+      "keyword": "home depot led landscape lighting",
+      "avg_monthly_searches": 90,
+      "competition": "HIGH",
+      "competition_index": "99",
+      "low_bid": 0.139286,
+      "high_bid": 0.5
+    },
+    {
+      "keyword": "one bedroom adu floor plans",
+      "avg_monthly_searches": 90,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.36,
+      "high_bid": 3.189701
+    },
+    {
+      "keyword": "duplex adu",
+      "avg_monthly_searches": 90,
+      "competition": "HIGH",
+      "competition_index": "92",
+      "low_bid": 1.21,
+      "high_bid": 6.777463
+    },
+    {
+      "keyword": "attached adu plans",
+      "avg_monthly_searches": 90,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.49,
+      "high_bid": 3.6
+    },
+    {
+      "keyword": "backyard cottage plans",
+      "avg_monthly_searches": 90,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.21,
+      "high_bid": 0.930096
+    },
+    {
+      "keyword": "backyard tiny homes for sale",
+      "avg_monthly_searches": 90,
+      "competition": "HIGH",
+      "competition_index": "97",
+      "low_bid": 0.25,
+      "high_bid": 1.7
+    },
+    {
+      "keyword": "800 square foot adu",
+      "avg_monthly_searches": 90,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.36,
+      "high_bid": 2.54
+    },
+    {
+      "keyword": "adu floor plans 700 sq ft",
+      "avg_monthly_searches": 90,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.145194,
+      "high_bid": 2.11
+    },
+    {
+      "keyword": "home depot backyard storage",
+      "avg_monthly_searches": 90,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.11886,
+      "high_bid": 0.851916
+    },
+    {
+      "keyword": "airbnb with backyard",
+      "avg_monthly_searches": 90,
+      "competition": "LOW",
+      "competition_index": "8",
+      "low_bid": 0.233439,
+      "high_bid": 2.421177
+    },
+    {
+      "keyword": "adu custom homes",
+      "avg_monthly_searches": 90,
+      "competition": "LOW",
+      "competition_index": "25",
+      "low_bid": 1.28,
+      "high_bid": 12.0
+    },
+    {
+      "keyword": "carriage house adu",
+      "avg_monthly_searches": 90,
+      "competition": "MEDIUM",
+      "competition_index": "37",
+      "low_bid": 0.653142,
+      "high_bid": 3.886429
+    },
+    {
+      "keyword": "800 sf adu",
+      "avg_monthly_searches": 90,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.36,
+      "high_bid": 2.54
+    },
+    {
+      "keyword": "20x20 adu floor plans",
+      "avg_monthly_searches": 90,
+      "competition": "HIGH",
+      "competition_index": "91",
+      "low_bid": 0.59,
+      "high_bid": 3.444623
+    },
+    {
+      "keyword": "600 sq ft adu floor plans",
+      "avg_monthly_searches": 90,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.106304,
+      "high_bid": 3.792607
+    },
+    {
+      "keyword": "aarp accessory dwelling units",
+      "avg_monthly_searches": 90,
+      "competition": "LOW",
+      "competition_index": "3",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu above garage floor plans",
+      "avg_monthly_searches": 90,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.338961,
+      "high_bid": 3.35
+    },
+    {
+      "keyword": "adu home costs",
+      "avg_monthly_searches": 90,
+      "competition": "HIGH",
+      "competition_index": "84",
+      "low_bid": 0.61,
+      "high_bid": 4.6
+    },
+    {
+      "keyword": "backyard cottage design",
+      "avg_monthly_searches": 90,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.21,
+      "high_bid": 0.930096
+    },
+    {
+      "keyword": "ladbs accessory dwelling unit",
+      "avg_monthly_searches": 90,
+      "competition": "LOW",
+      "competition_index": "11",
+      "low_bid": 2.7,
+      "high_bid": 6.4
+    },
+    {
+      "keyword": "abodu homes",
+      "avg_monthly_searches": 70,
+      "competition": "MEDIUM",
+      "competition_index": "46",
+      "low_bid": 1.45,
+      "high_bid": 10.305919
+    },
+    {
+      "keyword": "adu unit cost",
+      "avg_monthly_searches": 70,
+      "competition": "HIGH",
+      "competition_index": "93",
+      "low_bid": 2.126345,
+      "high_bid": 6.63
+    },
+    {
+      "keyword": "build an adu in your backyard",
+      "avg_monthly_searches": 70,
+      "competition": "HIGH",
+      "competition_index": "73",
+      "low_bid": 0.732176,
+      "high_bid": 6.823049
+    },
+    {
+      "keyword": "adu design and build",
+      "avg_monthly_searches": 70,
+      "competition": "HIGH",
+      "competition_index": "68",
+      "low_bid": 2.690241,
+      "high_bid": 11.64
+    },
+    {
+      "keyword": "build adu cost",
+      "avg_monthly_searches": 70,
+      "competition": "MEDIUM",
+      "competition_index": "57",
+      "low_bid": 1.54,
+      "high_bid": 6.37
+    },
+    {
+      "keyword": "prefab backyard guest house with bathroom",
+      "avg_monthly_searches": 70,
+      "competition": "HIGH",
+      "competition_index": "96",
+      "low_bid": 0.264465,
+      "high_bid": 1.991514
+    },
+    {
+      "keyword": "adu general contractor",
+      "avg_monthly_searches": 70,
+      "competition": "MEDIUM",
+      "competition_index": "54",
+      "low_bid": 12.64,
+      "high_bid": 40.224392
+    },
+    {
+      "keyword": "backyard adu cost",
+      "avg_monthly_searches": 70,
+      "competition": "HIGH",
+      "competition_index": "68",
+      "low_bid": 1.17,
+      "high_bid": 5.192563
+    },
+    {
+      "keyword": "build a adu",
+      "avg_monthly_searches": 70,
+      "competition": "MEDIUM",
+      "competition_index": "66",
+      "low_bid": 1.06,
+      "high_bid": 11.623941
+    },
+    {
+      "keyword": "average cost of adu",
+      "avg_monthly_searches": 70,
+      "competition": "MEDIUM",
+      "competition_index": "35",
+      "low_bid": 1.576688,
+      "high_bid": 4.75
+    },
+    {
+      "keyword": "adu additional dwelling unit",
+      "avg_monthly_searches": 70,
+      "competition": "MEDIUM",
+      "competition_index": "37",
+      "low_bid": 0.407161,
+      "high_bid": 6.68
+    },
+    {
+      "keyword": "garage to adu",
+      "avg_monthly_searches": 70,
+      "competition": "LOW",
+      "competition_index": "33",
+      "low_bid": 1.720446,
+      "high_bid": 6.76
+    },
+    {
+      "keyword": "detached adu cost",
+      "avg_monthly_searches": 70,
+      "competition": "LOW",
+      "competition_index": "31",
+      "low_bid": 1.48,
+      "high_bid": 5.31
+    },
+    {
+      "keyword": "backyard guest house kit",
+      "avg_monthly_searches": 70,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.175676,
+      "high_bid": 1.48
+    },
+    {
+      "keyword": "adu design build",
+      "avg_monthly_searches": 70,
+      "competition": "LOW",
+      "competition_index": "14",
+      "low_bid": 2.78,
+      "high_bid": 11.88587
+    },
+    {
+      "keyword": "400 sq ft adu cost",
+      "avg_monthly_searches": 70,
+      "competition": "MEDIUM",
+      "competition_index": "46",
+      "low_bid": 1.53,
+      "high_bid": 6.03
+    },
+    {
+      "keyword": "garage conversion adu plans",
+      "avg_monthly_searches": 70,
+      "competition": "HIGH",
+      "competition_index": "87",
+      "low_bid": 1.53,
+      "high_bid": 5.531948
+    },
+    {
+      "keyword": "modular adu cost",
+      "avg_monthly_searches": 70,
+      "competition": "HIGH",
+      "competition_index": "85",
+      "low_bid": 1.27,
+      "high_bid": 10.06467
+    },
+    {
+      "keyword": "house plans with adu",
+      "avg_monthly_searches": 70,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.22832,
+      "high_bid": 1.66
+    },
+    {
+      "keyword": "adu 500 sq ft",
+      "avg_monthly_searches": 70,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.519999,
+      "high_bid": 4.46
+    },
+    {
+      "keyword": "adu pre approved plans",
+      "avg_monthly_searches": 70,
+      "competition": "MEDIUM",
+      "competition_index": "45",
+      "low_bid": 1.83,
+      "high_bid": 7.18
+    },
+    {
+      "keyword": "garage adu designs",
+      "avg_monthly_searches": 70,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.36,
+      "high_bid": 2.54
+    },
+    {
+      "keyword": "attached adu floor plans",
+      "avg_monthly_searches": 70,
+      "competition": "HIGH",
+      "competition_index": "77",
+      "low_bid": 0.5,
+      "high_bid": 2.59
+    },
+    {
+      "keyword": "turning garage into adu",
+      "avg_monthly_searches": 70,
+      "competition": "MEDIUM",
+      "competition_index": "43",
+      "low_bid": 2.48,
+      "high_bid": 7.868985
+    },
+    {
+      "keyword": "800 square foot adu plans",
+      "avg_monthly_searches": 70,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.283192,
+      "high_bid": 1.25
+    },
+    {
+      "keyword": "l shaped adu plans",
+      "avg_monthly_searches": 70,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.233309,
+      "high_bid": 3.88
+    },
+    {
+      "keyword": "small homes for backyard",
+      "avg_monthly_searches": 70,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.23,
+      "high_bid": 1.71723
+    },
+    {
+      "keyword": "dadu plans",
+      "avg_monthly_searches": 70,
+      "competition": "MEDIUM",
+      "competition_index": "49",
+      "low_bid": 0.442271,
+      "high_bid": 4.01
+    },
+    {
+      "keyword": "adu in construction",
+      "avg_monthly_searches": 70,
+      "competition": "LOW",
+      "competition_index": "12",
+      "low_bid": 0.64,
+      "high_bid": 31.22
+    },
+    {
+      "keyword": "800 sq ft adu plans",
+      "avg_monthly_searches": 70,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.11768,
+      "high_bid": 2.36
+    },
+    {
+      "keyword": "adu granny flat",
+      "avg_monthly_searches": 70,
+      "competition": "MEDIUM",
+      "competition_index": "46",
+      "low_bid": 0.3,
+      "high_bid": 2.0
+    },
+    {
+      "keyword": "narrow adu plans",
+      "avg_monthly_searches": 70,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.311762,
+      "high_bid": 2.705482
+    },
+    {
+      "keyword": "adu development",
+      "avg_monthly_searches": 70,
+      "competition": "LOW",
+      "competition_index": "18",
+      "low_bid": 3.76,
+      "high_bid": 11.55
+    },
+    {
+      "keyword": "studio adu plans",
+      "avg_monthly_searches": 70,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.54,
+      "high_bid": 2.69
+    },
+    {
+      "keyword": "above garage adu plans",
+      "avg_monthly_searches": 70,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.365991,
+      "high_bid": 3.690083
+    },
+    {
+      "keyword": "steps to building an adu",
+      "avg_monthly_searches": 70,
+      "competition": "LOW",
+      "competition_index": "29",
+      "low_bid": 2.874725,
+      "high_bid": 8.01
+    },
+    {
+      "keyword": "2 bedroom 2 bath adu floor plans",
+      "avg_monthly_searches": 70,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.5,
+      "high_bid": 3.235887
+    },
+    {
+      "keyword": "garage with adu plans",
+      "avg_monthly_searches": 70,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.217124,
+      "high_bid": 0.767111
+    },
+    {
+      "keyword": "backyard cabin kits",
+      "avg_monthly_searches": 70,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.156625,
+      "high_bid": 1.026039
+    },
+    {
+      "keyword": "backyard workout shed",
+      "avg_monthly_searches": 70,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.37683,
+      "high_bid": 1.414787
+    },
+    {
+      "keyword": "adu georgia",
+      "avg_monthly_searches": 70,
+      "competition": "LOW",
+      "competition_index": "23",
+      "low_bid": 0.5,
+      "high_bid": 3.971673
+    },
+    {
+      "keyword": "700 sq ft adu",
+      "avg_monthly_searches": 70,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.186464,
+      "high_bid": 3.81
+    },
+    {
+      "keyword": "detached garage adu",
+      "avg_monthly_searches": 70,
+      "competition": "HIGH",
+      "competition_index": "77",
+      "low_bid": 1.74,
+      "high_bid": 6.13
+    },
+    {
+      "keyword": "mid century modern adu",
+      "avg_monthly_searches": 70,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 1.17,
+      "high_bid": 4.35
+    },
+    {
+      "keyword": "adu square footage",
+      "avg_monthly_searches": 70,
+      "competition": "LOW",
+      "competition_index": "8",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "backyard cottages for sale",
+      "avg_monthly_searches": 70,
+      "competition": "HIGH",
+      "competition_index": "97",
+      "low_bid": 0.284517,
+      "high_bid": 0.96
+    },
+    {
+      "keyword": "300 square foot adu plans",
+      "avg_monthly_searches": 70,
+      "competition": "HIGH",
+      "competition_index": "98",
+      "low_bid": 0.38,
+      "high_bid": 2.31
+    },
+    {
+      "keyword": "accessory dwelling unit phoenix",
+      "avg_monthly_searches": 70,
+      "competition": "MEDIUM",
+      "competition_index": "54",
+      "low_bid": 1.7,
+      "high_bid": 7.968156
+    },
+    {
+      "keyword": "800 sf adu plans",
+      "avg_monthly_searches": 70,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.283192,
+      "high_bid": 1.25
+    },
+    {
+      "keyword": "2 bedroom 2 bath adu plans",
+      "avg_monthly_searches": 70,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.152611,
+      "high_bid": 2.52351
+    },
+    {
+      "keyword": "accessory dwelling unit fannie mae",
+      "avg_monthly_searches": 70,
+      "competition": "LOW",
+      "competition_index": "2",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "accessory homes",
+      "avg_monthly_searches": 70,
+      "competition": "HIGH",
+      "competition_index": "89",
+      "low_bid": 0.597662,
+      "high_bid": 2.583966
+    },
+    {
+      "keyword": "additional housing units",
+      "avg_monthly_searches": 70,
+      "competition": "MEDIUM",
+      "competition_index": "34",
+      "low_bid": 0.903188,
+      "high_bid": 4.82
+    },
+    {
+      "keyword": "adu what is it",
+      "avg_monthly_searches": 70,
+      "competition": "LOW",
+      "competition_index": "8",
+      "low_bid": 0.12,
+      "high_bid": 6.843633
+    },
+    {
+      "keyword": "backyard driveway",
+      "avg_monthly_searches": 70,
+      "competition": "LOW",
+      "competition_index": "11",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "dc accessory dwelling unit",
+      "avg_monthly_searches": 70,
+      "competition": "LOW",
+      "competition_index": "17",
+      "low_bid": 1.464297,
+      "high_bid": 7.69
+    },
+    {
+      "keyword": "fnma adu",
+      "avg_monthly_searches": 70,
+      "competition": "LOW",
+      "competition_index": "5",
+      "low_bid": 2.137354,
+      "high_bid": 6.4
+    },
+    {
+      "keyword": "garage apartment conversion plans",
+      "avg_monthly_searches": 70,
+      "competition": "LOW",
+      "competition_index": "19",
+      "low_bid": 0.515694,
+      "high_bid": 2.59
+    },
+    {
+      "keyword": "hcd adu",
+      "avg_monthly_searches": 70,
+      "competition": "LOW",
+      "competition_index": "5",
+      "low_bid": 3.92,
+      "high_bid": 26.538998
+    },
+    {
+      "keyword": "khloe kardashian backyard",
+      "avg_monthly_searches": 70,
+      "competition": "LOW",
+      "competition_index": "0",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "resort backyard",
+      "avg_monthly_searches": 70,
+      "competition": "LOW",
+      "competition_index": "20",
+      "low_bid": 0.768373,
+      "high_bid": 7.08
+    },
+    {
+      "keyword": "small above garage apartment",
+      "avg_monthly_searches": 70,
+      "competition": "HIGH",
+      "competition_index": "93",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "backyard granny flats",
+      "avg_monthly_searches": 50,
+      "competition": "HIGH",
+      "competition_index": "96",
+      "low_bid": 0.4,
+      "high_bid": 2.720856
+    },
+    {
+      "keyword": "cost to build 400 sq ft adu",
+      "avg_monthly_searches": 50,
+      "competition": "MEDIUM",
+      "competition_index": "62",
+      "low_bid": 1.36,
+      "high_bid": 6.502077
+    },
+    {
+      "keyword": "affordable adu builders",
+      "avg_monthly_searches": 50,
+      "competition": "LOW",
+      "competition_index": "7",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "prefab adu pricing",
+      "avg_monthly_searches": 50,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.793276,
+      "high_bid": 4.59
+    },
+    {
+      "keyword": "diy guest house",
+      "avg_monthly_searches": 50,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.481658,
+      "high_bid": 1.88
+    },
+    {
+      "keyword": "plans for adu",
+      "avg_monthly_searches": 50,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.39,
+      "high_bid": 4.672885
+    },
+    {
+      "keyword": "construction adu",
+      "avg_monthly_searches": 50,
+      "competition": "MEDIUM",
+      "competition_index": "43",
+      "low_bid": 5.032001,
+      "high_bid": 24.421322
+    },
+    {
+      "keyword": "adu addition cost",
+      "avg_monthly_searches": 50,
+      "competition": "LOW",
+      "competition_index": "3",
+      "low_bid": 1.712527,
+      "high_bid": 8.66
+    },
+    {
+      "keyword": "adu price per square foot",
+      "avg_monthly_searches": 50,
+      "competition": "MEDIUM",
+      "competition_index": "40",
+      "low_bid": 2.18,
+      "high_bid": 8.68
+    },
+    {
+      "keyword": "buy an adu",
+      "avg_monthly_searches": 50,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 1.29,
+      "high_bid": 7.28
+    },
+    {
+      "keyword": "cost of building adu",
+      "avg_monthly_searches": 50,
+      "competition": "MEDIUM",
+      "competition_index": "35",
+      "low_bid": 1.94,
+      "high_bid": 6.213235
+    },
+    {
+      "keyword": "attached garage adu conversion",
+      "avg_monthly_searches": 50,
+      "competition": "LOW",
+      "competition_index": "24",
+      "low_bid": 2.73,
+      "high_bid": 15.68
+    },
+    {
+      "keyword": "adding adu to home",
+      "avg_monthly_searches": 50,
+      "competition": "MEDIUM",
+      "competition_index": "45",
+      "low_bid": 2.12,
+      "high_bid": 14.332557
+    },
+    {
+      "keyword": "adu design cost",
+      "avg_monthly_searches": 50,
+      "competition": "LOW",
+      "competition_index": "18",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "250 sq ft adu",
+      "avg_monthly_searches": 50,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 1.08,
+      "high_bid": 8.52
+    },
+    {
+      "keyword": "adu garage conversion floor plans",
+      "avg_monthly_searches": 50,
+      "competition": "HIGH",
+      "competition_index": "98",
+      "low_bid": 0.83,
+      "high_bid": 2.66
+    },
+    {
+      "keyword": "over garage adu",
+      "avg_monthly_searches": 50,
+      "competition": "HIGH",
+      "competition_index": "90",
+      "low_bid": 2.800413,
+      "high_bid": 9.0
+    },
+    {
+      "keyword": "tiny home office shed",
+      "avg_monthly_searches": 50,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.359573,
+      "high_bid": 1.73
+    },
+    {
+      "keyword": "adu duplex",
+      "avg_monthly_searches": 50,
+      "competition": "LOW",
+      "competition_index": "18",
+      "low_bid": 2.49,
+      "high_bid": 5.012878
+    },
+    {
+      "keyword": "duplex adu plans",
+      "avg_monthly_searches": 50,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.28485,
+      "high_bid": 1.93
+    },
+    {
+      "keyword": "backyard dwelling unit",
+      "avg_monthly_searches": 50,
+      "competition": "HIGH",
+      "competition_index": "68",
+      "low_bid": 0.45612,
+      "high_bid": 4.306605
+    },
+    {
+      "keyword": "adu 800 sq ft",
+      "avg_monthly_searches": 50,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.89,
+      "high_bid": 4.842845
+    },
+    {
+      "keyword": "pre approved adu",
+      "avg_monthly_searches": 50,
+      "competition": "LOW",
+      "competition_index": "26",
+      "low_bid": 2.44,
+      "high_bid": 11.99
+    },
+    {
+      "keyword": "diy outdoor bbq island",
+      "avg_monthly_searches": 50,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 1.44,
+      "high_bid": 4.846883
+    },
+    {
+      "keyword": "adu in front yard",
+      "avg_monthly_searches": 50,
+      "competition": "LOW",
+      "competition_index": "18",
+      "low_bid": 3.07,
+      "high_bid": 11.03
+    },
+    {
+      "keyword": "home depot studio shed",
+      "avg_monthly_searches": 50,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.472684,
+      "high_bid": 2.573435
+    },
+    {
+      "keyword": "adu with loft plans",
+      "avg_monthly_searches": 50,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.58,
+      "high_bid": 2.78
+    },
+    {
+      "keyword": "modular adu units",
+      "avg_monthly_searches": 50,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.681067,
+      "high_bid": 6.43
+    },
+    {
+      "keyword": "backyard bedroom",
+      "avg_monthly_searches": 50,
+      "competition": "HIGH",
+      "competition_index": "85",
+      "low_bid": 0.32,
+      "high_bid": 2.097839
+    },
+    {
+      "keyword": "200 sq ft adu plans",
+      "avg_monthly_searches": 50,
+      "competition": "HIGH",
+      "competition_index": "97",
+      "low_bid": 0.34,
+      "high_bid": 2.66
+    },
+    {
+      "keyword": "prefab backyard cottage",
+      "avg_monthly_searches": 50,
+      "competition": "HIGH",
+      "competition_index": "86",
+      "low_bid": 0.407718,
+      "high_bid": 1.410933
+    },
+    {
+      "keyword": "diy backyard studio",
+      "avg_monthly_searches": 50,
+      "competition": "HIGH",
+      "competition_index": "97",
+      "low_bid": 0.407433,
+      "high_bid": 2.069999
+    },
+    {
+      "keyword": "adu types",
+      "avg_monthly_searches": 50,
+      "competition": "LOW",
+      "competition_index": "20",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "outdoor covered grill area",
+      "avg_monthly_searches": 50,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 2.895282,
+      "high_bid": 9.86
+    },
+    {
+      "keyword": "barn adu",
+      "avg_monthly_searches": 50,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.965559,
+      "high_bid": 4.49
+    },
+    {
+      "keyword": "adu attached to garage",
+      "avg_monthly_searches": 50,
+      "competition": "MEDIUM",
+      "competition_index": "50",
+      "low_bid": 1.121462,
+      "high_bid": 16.15
+    },
+    {
+      "keyword": "front yard adu",
+      "avg_monthly_searches": 50,
+      "competition": "LOW",
+      "competition_index": "22",
+      "low_bid": 0.82165,
+      "high_bid": 3.25
+    },
+    {
+      "keyword": "outdoor fireplace kits home depot",
+      "avg_monthly_searches": 50,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.246117,
+      "high_bid": 2.56546
+    },
+    {
+      "keyword": "backyard airbnb",
+      "avg_monthly_searches": 50,
+      "competition": "LOW",
+      "competition_index": "14",
+      "low_bid": 0.226477,
+      "high_bid": 1.73
+    },
+    {
+      "keyword": "1200 sq ft adu plans 2 story",
+      "avg_monthly_searches": 50,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 1.16,
+      "high_bid": 3.9
+    },
+    {
+      "keyword": "adu standard plans",
+      "avg_monthly_searches": 50,
+      "competition": "LOW",
+      "competition_index": "8",
+      "low_bid": 2.94,
+      "high_bid": 12.409951
+    },
+    {
+      "keyword": "adu bedroom",
+      "avg_monthly_searches": 50,
+      "competition": "LOW",
+      "competition_index": "21",
+      "low_bid": 2.12,
+      "high_bid": 3.737496
+    },
+    {
+      "keyword": "adu 600 square feet",
+      "avg_monthly_searches": 50,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.935146,
+      "high_bid": 5.38
+    },
+    {
+      "keyword": "3 car garage adu",
+      "avg_monthly_searches": 50,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.335839,
+      "high_bid": 3.860497
+    },
+    {
+      "keyword": "bungalow backyard",
+      "avg_monthly_searches": 50,
+      "competition": "LOW",
+      "competition_index": "9",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "detached garage apartment cost",
+      "avg_monthly_searches": 50,
+      "competition": "LOW",
+      "competition_index": "25",
+      "low_bid": 0.937669,
+      "high_bid": 2.212039
+    },
+    {
+      "keyword": "diy outdoor fire pit area",
+      "avg_monthly_searches": 50,
+      "competition": "MEDIUM",
+      "competition_index": "58",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "jadu floor plan",
+      "avg_monthly_searches": 50,
+      "competition": "LOW",
+      "competition_index": "22",
+      "low_bid": 2.185679,
+      "high_bid": 6.875191
+    },
+    {
+      "keyword": "adu unit prefab",
+      "avg_monthly_searches": 40,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.51279,
+      "high_bid": 2.75
+    },
+    {
+      "keyword": "building an adu cost",
+      "avg_monthly_searches": 40,
+      "competition": "MEDIUM",
+      "competition_index": "46",
+      "low_bid": 1.483879,
+      "high_bid": 6.840277
+    },
+    {
+      "keyword": "cost to build granny flat",
+      "avg_monthly_searches": 40,
+      "competition": "LOW",
+      "competition_index": "13",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "build your own adu",
+      "avg_monthly_searches": 40,
+      "competition": "MEDIUM",
+      "competition_index": "63",
+      "low_bid": 0.99,
+      "high_bid": 5.81
+    },
+    {
+      "keyword": "additional unit on property",
+      "avg_monthly_searches": 40,
+      "competition": "MEDIUM",
+      "competition_index": "35",
+      "low_bid": 0.68,
+      "high_bid": 5.0
+    },
+    {
+      "keyword": "cost for adu",
+      "avg_monthly_searches": 40,
+      "competition": "MEDIUM",
+      "competition_index": "36",
+      "low_bid": 1.13,
+      "high_bid": 5.49
+    },
+    {
+      "keyword": "average adu cost",
+      "avg_monthly_searches": 40,
+      "competition": "LOW",
+      "competition_index": "23",
+      "low_bid": 1.769067,
+      "high_bid": 5.21783
+    },
+    {
+      "keyword": "affordable adu homes",
+      "avg_monthly_searches": 40,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.6,
+      "high_bid": 4.7
+    },
+    {
+      "keyword": "average cost to build an adu",
+      "avg_monthly_searches": 40,
+      "competition": "MEDIUM",
+      "competition_index": "46",
+      "low_bid": 1.59,
+      "high_bid": 5.14
+    },
+    {
+      "keyword": "adding an adu",
+      "avg_monthly_searches": 40,
+      "competition": "MEDIUM",
+      "competition_index": "37",
+      "low_bid": 2.92502,
+      "high_bid": 13.294372
+    },
+    {
+      "keyword": "adu average cost",
+      "avg_monthly_searches": 40,
+      "competition": "MEDIUM",
+      "competition_index": "43",
+      "low_bid": 0.922786,
+      "high_bid": 5.109457
+    },
+    {
+      "keyword": "garage adu cost",
+      "avg_monthly_searches": 40,
+      "competition": "LOW",
+      "competition_index": "31",
+      "low_bid": 2.46,
+      "high_bid": 7.04
+    },
+    {
+      "keyword": "garage conversion adu contractor",
+      "avg_monthly_searches": 40,
+      "competition": "LOW",
+      "competition_index": "24",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "cost to build adu in backyard",
+      "avg_monthly_searches": 40,
+      "competition": "MEDIUM",
+      "competition_index": "41",
+      "low_bid": 2.538951,
+      "high_bid": 7.114344
+    },
+    {
+      "keyword": "average cost of an adu",
+      "avg_monthly_searches": 40,
+      "competition": "MEDIUM",
+      "competition_index": "36",
+      "low_bid": 0.86,
+      "high_bid": 4.12
+    },
+    {
+      "keyword": "adu assistance",
+      "avg_monthly_searches": 40,
+      "competition": "MEDIUM",
+      "competition_index": "40",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "2 story adu cost",
+      "avg_monthly_searches": 40,
+      "competition": "MEDIUM",
+      "competition_index": "63",
+      "low_bid": 1.95,
+      "high_bid": 7.59
+    },
+    {
+      "keyword": "prefab home office shed",
+      "avg_monthly_searches": 40,
+      "competition": "HIGH",
+      "competition_index": "80",
+      "low_bid": 0.330227,
+      "high_bid": 2.013273
+    },
+    {
+      "keyword": "garage into adu",
+      "avg_monthly_searches": 40,
+      "competition": "LOW",
+      "competition_index": "31",
+      "low_bid": 1.842607,
+      "high_bid": 7.561928
+    },
+    {
+      "keyword": "portable backyard office",
+      "avg_monthly_searches": 40,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.519648,
+      "high_bid": 3.600978
+    },
+    {
+      "keyword": "houses with big backyards for sale near me",
+      "avg_monthly_searches": 40,
+      "competition": "LOW",
+      "competition_index": "10",
+      "low_bid": 0.644956,
+      "high_bid": 3.313205
+    },
+    {
+      "keyword": "permit for adu",
+      "avg_monthly_searches": 40,
+      "competition": "LOW",
+      "competition_index": "24",
+      "low_bid": 2.950061,
+      "high_bid": 10.11
+    },
+    {
+      "keyword": "adu plans 800 sq ft",
+      "avg_monthly_searches": 40,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.178631,
+      "high_bid": 2.97
+    },
+    {
+      "keyword": "adu in the backyard",
+      "avg_monthly_searches": 40,
+      "competition": "HIGH",
+      "competition_index": "69",
+      "low_bid": 1.5,
+      "high_bid": 5.34
+    },
+    {
+      "keyword": "small adu designs",
+      "avg_monthly_searches": 40,
+      "competition": "HIGH",
+      "competition_index": "80",
+      "low_bid": 0.6832,
+      "high_bid": 3.39
+    },
+    {
+      "keyword": "adu home designs",
+      "avg_monthly_searches": 40,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.219631,
+      "high_bid": 1.49
+    },
+    {
+      "keyword": "floor plans for adu",
+      "avg_monthly_searches": 40,
+      "competition": "HIGH",
+      "competition_index": "98",
+      "low_bid": 0.271052,
+      "high_bid": 2.73
+    },
+    {
+      "keyword": "backyard tiny house kit",
+      "avg_monthly_searches": 40,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.102813,
+      "high_bid": 1.304305
+    },
+    {
+      "keyword": "garage conversion to adu cost",
+      "avg_monthly_searches": 40,
+      "competition": "MEDIUM",
+      "competition_index": "54",
+      "low_bid": 3.41,
+      "high_bid": 14.54
+    },
+    {
+      "keyword": "adu in garage",
+      "avg_monthly_searches": 40,
+      "competition": "MEDIUM",
+      "competition_index": "63",
+      "low_bid": 1.88,
+      "high_bid": 4.69
+    },
+    {
+      "keyword": "2 bed 1 bath adu plans",
+      "avg_monthly_searches": 40,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.14,
+      "high_bid": 4.56
+    },
+    {
+      "keyword": "assisted dwelling unit",
+      "avg_monthly_searches": 40,
+      "competition": "LOW",
+      "competition_index": "13",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu affordable housing",
+      "avg_monthly_searches": 40,
+      "competition": "LOW",
+      "competition_index": "8",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "granny flat builders moreton bay",
+      "avg_monthly_searches": 40,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu space",
+      "avg_monthly_searches": 40,
+      "competition": "LOW",
+      "competition_index": "15",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "cottage adu plans",
+      "avg_monthly_searches": 40,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.3,
+      "high_bid": 4.28653
+    },
+    {
+      "keyword": "build adu home remodel",
+      "avg_monthly_searches": 40,
+      "competition": "LOW",
+      "competition_index": "17",
+      "low_bid": 1.87,
+      "high_bid": 6.66
+    },
+    {
+      "keyword": "glendale adu",
+      "avg_monthly_searches": 40,
+      "competition": "LOW",
+      "competition_index": "28",
+      "low_bid": 5.637193,
+      "high_bid": 12.304175
+    },
+    {
+      "keyword": "small storage house for backyard",
+      "avg_monthly_searches": 40,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "one bedroom adu plans",
+      "avg_monthly_searches": 40,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "backyard log cabin",
+      "avg_monthly_searches": 40,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "home depot backyard house",
+      "avg_monthly_searches": 40,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "700 square foot adu plans",
+      "avg_monthly_searches": 40,
+      "competition": "HIGH",
+      "competition_index": "99",
+      "low_bid": 0.25079,
+      "high_bid": 2.38
+    },
+    {
+      "keyword": "shop with adu plans",
+      "avg_monthly_searches": 40,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.32,
+      "high_bid": 3.89
+    },
+    {
+      "keyword": "junior adu plans",
+      "avg_monthly_searches": 40,
+      "competition": "HIGH",
+      "competition_index": "97",
+      "low_bid": 1.02,
+      "high_bid": 5.297522
+    },
+    {
+      "keyword": "two story adu floor plans",
+      "avg_monthly_searches": 40,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.55,
+      "high_bid": 3.59
+    },
+    {
+      "keyword": "accessory dwelling unit long island",
+      "avg_monthly_searches": 40,
+      "competition": "LOW",
+      "competition_index": "17",
+      "low_bid": 0.72,
+      "high_bid": 5.676616
+    },
+    {
+      "keyword": "adu dadu",
+      "avg_monthly_searches": 40,
+      "competition": "LOW",
+      "competition_index": "19",
+      "low_bid": 1.18,
+      "high_bid": 4.99
+    },
+    {
+      "keyword": "adu in a house",
+      "avg_monthly_searches": 40,
+      "competition": "LOW",
+      "competition_index": "12",
+      "low_bid": 0.011929,
+      "high_bid": 0.129999
+    },
+    {
+      "keyword": "adu residence",
+      "avg_monthly_searches": 40,
+      "competition": "LOW",
+      "competition_index": "25",
+      "low_bid": 0.088589,
+      "high_bid": 4.47
+    },
+    {
+      "keyword": "adu state law",
+      "avg_monthly_searches": 40,
+      "competition": "LOW",
+      "competition_index": "1",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu studio floor plan",
+      "avg_monthly_searches": 40,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.42,
+      "high_bid": 3.52
+    },
+    {
+      "keyword": "auxiliary dwelling",
+      "avg_monthly_searches": 40,
+      "competition": "LOW",
+      "competition_index": "17",
+      "low_bid": 0.24362,
+      "high_bid": 2.6
+    },
+    {
+      "keyword": "detached units",
+      "avg_monthly_searches": 40,
+      "competition": "LOW",
+      "competition_index": "3",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "outdoor fire area",
+      "avg_monthly_searches": 40,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "small backyard cabin",
+      "avg_monthly_searches": 40,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.138499,
+      "high_bid": 1.652676
+    },
+    {
+      "keyword": "prefab studio office",
+      "avg_monthly_searches": 30,
+      "competition": "HIGH",
+      "competition_index": "71",
+      "low_bid": 0.44972,
+      "high_bid": 4.11
+    },
+    {
+      "keyword": "most affordable adu",
+      "avg_monthly_searches": 30,
+      "competition": "HIGH",
+      "competition_index": "95",
+      "low_bid": 0.909955,
+      "high_bid": 4.15
+    },
+    {
+      "keyword": "adu sewer connection cost",
+      "avg_monthly_searches": 30,
+      "competition": "MEDIUM",
+      "competition_index": "38",
+      "low_bid": 5.720185,
+      "high_bid": 44.912564
+    },
+    {
+      "keyword": "general contractor for adu",
+      "avg_monthly_searches": 30,
+      "competition": "MEDIUM",
+      "competition_index": "40",
+      "low_bid": 6.861266,
+      "high_bid": 56.87
+    },
+    {
+      "keyword": "cost of converting garage to adu",
+      "avg_monthly_searches": 30,
+      "competition": "LOW",
+      "competition_index": "33",
+      "low_bid": 1.720761,
+      "high_bid": 4.392885
+    },
+    {
+      "keyword": "adu plumbing cost",
+      "avg_monthly_searches": 30,
+      "competition": "LOW",
+      "competition_index": "27",
+      "low_bid": 2.61,
+      "high_bid": 14.87
+    },
+    {
+      "keyword": "adu architectural designs",
+      "avg_monthly_searches": 30,
+      "competition": "MEDIUM",
+      "competition_index": "50",
+      "low_bid": 1.85,
+      "high_bid": 14.0
+    },
+    {
+      "keyword": "home office shed kit",
+      "avg_monthly_searches": 30,
+      "competition": "HIGH",
+      "competition_index": "98",
+      "low_bid": 0.403077,
+      "high_bid": 1.73
+    },
+    {
+      "keyword": "adu back house",
+      "avg_monthly_searches": 30,
+      "competition": "LOW",
+      "competition_index": "33",
+      "low_bid": 1.52,
+      "high_bid": 6.49
+    },
+    {
+      "keyword": "adu builders group",
+      "avg_monthly_searches": 30,
+      "competition": "LOW",
+      "competition_index": "10",
+      "low_bid": 1.08,
+      "high_bid": 8.87
+    },
+    {
+      "keyword": "adu shipping container",
+      "avg_monthly_searches": 30,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 1.11,
+      "high_bid": 5.02
+    },
+    {
+      "keyword": "adu floor plans 750 sq ft",
+      "avg_monthly_searches": 30,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "auxiliary dwelling unit cost",
+      "avg_monthly_searches": 30,
+      "competition": "MEDIUM",
+      "competition_index": "47",
+      "low_bid": 0.9,
+      "high_bid": 3.59
+    },
+    {
+      "keyword": "approved adu plans",
+      "avg_monthly_searches": 30,
+      "competition": "MEDIUM",
+      "competition_index": "50",
+      "low_bid": 1.38,
+      "high_bid": 5.0
+    },
+    {
+      "keyword": "tiny adu plans",
+      "avg_monthly_searches": 30,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.285264,
+      "high_bid": 1.41
+    },
+    {
+      "keyword": "diy adu plans",
+      "avg_monthly_searches": 30,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.282932,
+      "high_bid": 3.101023
+    },
+    {
+      "keyword": "large adu",
+      "avg_monthly_searches": 30,
+      "competition": "HIGH",
+      "competition_index": "91",
+      "low_bid": 0.84,
+      "high_bid": 4.6
+    },
+    {
+      "keyword": "adu over garage cost",
+      "avg_monthly_searches": 30,
+      "competition": "MEDIUM",
+      "competition_index": "44",
+      "low_bid": 1.86,
+      "high_bid": 8.151513
+    },
+    {
+      "keyword": "houzz backyard",
+      "avg_monthly_searches": 30,
+      "competition": "HIGH",
+      "competition_index": "87",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu plans 600 sq ft",
+      "avg_monthly_searches": 30,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.232406,
+      "high_bid": 2.61
+    },
+    {
+      "keyword": "two bedroom adu plans",
+      "avg_monthly_searches": 30,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.36,
+      "high_bid": 2.35
+    },
+    {
+      "keyword": "jadu plans",
+      "avg_monthly_searches": 30,
+      "competition": "MEDIUM",
+      "competition_index": "56",
+      "low_bid": 2.26,
+      "high_bid": 11.549388
+    },
+    {
+      "keyword": "attached adu cost",
+      "avg_monthly_searches": 30,
+      "competition": "MEDIUM",
+      "competition_index": "48",
+      "low_bid": 2.22,
+      "high_bid": 11.063618
+    },
+    {
+      "keyword": "additional dwelling",
+      "avg_monthly_searches": 30,
+      "competition": "LOW",
+      "competition_index": "9",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "homes for sale with backyard",
+      "avg_monthly_searches": 30,
+      "competition": "MEDIUM",
+      "competition_index": "59",
+      "low_bid": 0.282418,
+      "high_bid": 3.02307
+    },
+    {
+      "keyword": "second dwelling on property",
+      "avg_monthly_searches": 30,
+      "competition": "LOW",
+      "competition_index": "14",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "garage with adu above plans",
+      "avg_monthly_searches": 30,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.336273,
+      "high_bid": 2.210453
+    },
+    {
+      "keyword": "adu floor plans 350 sq ft",
+      "avg_monthly_searches": 30,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "secondary dwelling",
+      "avg_monthly_searches": 30,
+      "competition": "LOW",
+      "competition_index": "4",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "diy adu cost",
+      "avg_monthly_searches": 30,
+      "competition": "MEDIUM",
+      "competition_index": "38",
+      "low_bid": 1.62,
+      "high_bid": 4.415281
+    },
+    {
+      "keyword": "attached garage adu",
+      "avg_monthly_searches": 30,
+      "competition": "LOW",
+      "competition_index": "25",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "backyard cottage kit",
+      "avg_monthly_searches": 30,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.402614,
+      "high_bid": 1.21
+    },
+    {
+      "keyword": "2 bedroom adu layout",
+      "avg_monthly_searches": 30,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "homes with backyards for sale",
+      "avg_monthly_searches": 30,
+      "competition": "MEDIUM",
+      "competition_index": "63",
+      "low_bid": 0.049953,
+      "high_bid": 3.93
+    },
+    {
+      "keyword": "residential adu",
+      "avg_monthly_searches": 30,
+      "competition": "LOW",
+      "competition_index": "27",
+      "low_bid": 0.046351,
+      "high_bid": 15.0
+    },
+    {
+      "keyword": "adu above detached garage",
+      "avg_monthly_searches": 30,
+      "competition": "LOW",
+      "competition_index": "26",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu and dadu",
+      "avg_monthly_searches": 30,
+      "competition": "LOW",
+      "competition_index": "16",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu approved",
+      "avg_monthly_searches": 30,
+      "competition": "LOW",
+      "competition_index": "16",
+      "low_bid": 1.53,
+      "high_bid": 6.682085
+    },
+    {
+      "keyword": "adu architect plans",
+      "avg_monthly_searches": 30,
+      "competition": "HIGH",
+      "competition_index": "89",
+      "low_bid": 1.24,
+      "high_bid": 7.210307
+    },
+    {
+      "keyword": "adu attached",
+      "avg_monthly_searches": 30,
+      "competition": "LOW",
+      "competition_index": "24",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu bills",
+      "avg_monthly_searches": 30,
+      "competition": "LOW",
+      "competition_index": "2",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu floor plans 200 sq ft",
+      "avg_monthly_searches": 30,
+      "competition": "HIGH",
+      "competition_index": "88",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu house plans for sale",
+      "avg_monthly_searches": 30,
+      "competition": "LOW",
+      "competition_index": "0",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "alternative dwelling",
+      "avg_monthly_searches": 30,
+      "competition": "LOW",
+      "competition_index": "24",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "champion homes adu",
+      "avg_monthly_searches": 30,
+      "competition": "MEDIUM",
+      "competition_index": "33",
+      "low_bid": 0.21,
+      "high_bid": 2.71
+    },
+    {
+      "keyword": "diy patio area",
+      "avg_monthly_searches": 30,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "hgtv backyard",
+      "avg_monthly_searches": 30,
+      "competition": "MEDIUM",
+      "competition_index": "39",
+      "low_bid": 0.172331,
+      "high_bid": 6.3
+    },
+    {
+      "keyword": "small patio area",
+      "avg_monthly_searches": 30,
+      "competition": "HIGH",
+      "competition_index": "99",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "state adu law",
+      "avg_monthly_searches": 30,
+      "competition": "LOW",
+      "competition_index": "0",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "the adu",
+      "avg_monthly_searches": 30,
+      "competition": "LOW",
+      "competition_index": "13",
+      "low_bid": 2.344875,
+      "high_bid": 6.38
+    },
+    {
+      "keyword": "adu works",
+      "avg_monthly_searches": 20,
+      "competition": "LOW",
+      "competition_index": "18",
+      "low_bid": 3.0,
+      "high_bid": 11.07
+    },
+    {
+      "keyword": "pre built adu unit",
+      "avg_monthly_searches": 20,
+      "competition": "HIGH",
+      "competition_index": "97",
+      "low_bid": 1.01,
+      "high_bid": 7.043511
+    },
+    {
+      "keyword": "villa adu cost",
+      "avg_monthly_searches": 20,
+      "competition": "MEDIUM",
+      "competition_index": "49",
+      "low_bid": 1.94,
+      "high_bid": 10.12
+    },
+    {
+      "keyword": "adu architect cost",
+      "avg_monthly_searches": 20,
+      "competition": "MEDIUM",
+      "competition_index": "49",
+      "low_bid": 4.332403,
+      "high_bid": 16.763884
+    },
+    {
+      "keyword": "low cost adu",
+      "avg_monthly_searches": 20,
+      "competition": "HIGH",
+      "competition_index": "82",
+      "low_bid": 0.63,
+      "high_bid": 8.2
+    },
+    {
+      "keyword": "prebuilt adu unit",
+      "avg_monthly_searches": 20,
+      "competition": "HIGH",
+      "competition_index": "97",
+      "low_bid": 1.01,
+      "high_bid": 7.043511
+    },
+    {
+      "keyword": "adu studio plans",
+      "avg_monthly_searches": 20,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.32,
+      "high_bid": 1.48595
+    },
+    {
+      "keyword": "cost to build a adu",
+      "avg_monthly_searches": 20,
+      "competition": "MEDIUM",
+      "competition_index": "45",
+      "low_bid": 1.36,
+      "high_bid": 5.13
+    },
+    {
+      "keyword": "homes for sale with backyard pool",
+      "avg_monthly_searches": 20,
+      "competition": "MEDIUM",
+      "competition_index": "35",
+      "low_bid": 0.046902,
+      "high_bid": 1.07
+    },
+    {
+      "keyword": "garden covered seating area",
+      "avg_monthly_searches": 20,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "cost adu",
+      "avg_monthly_searches": 20,
+      "competition": "MEDIUM",
+      "competition_index": "60",
+      "low_bid": 2.62,
+      "high_bid": 9.45
+    },
+    {
+      "keyword": "home plans with adu",
+      "avg_monthly_searches": 20,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.3,
+      "high_bid": 3.339298
+    },
+    {
+      "keyword": "adu plans cost",
+      "avg_monthly_searches": 20,
+      "competition": "HIGH",
+      "competition_index": "82",
+      "low_bid": 2.858406,
+      "high_bid": 6.832431
+    },
+    {
+      "keyword": "adu as primary residence",
+      "avg_monthly_searches": 20,
+      "competition": "LOW",
+      "competition_index": "9",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu approved plans",
+      "avg_monthly_searches": 20,
+      "competition": "MEDIUM",
+      "competition_index": "37",
+      "low_bid": 1.0,
+      "high_bid": 4.75
+    },
+    {
+      "keyword": "average cost for adu",
+      "avg_monthly_searches": 20,
+      "competition": "LOW",
+      "competition_index": "31",
+      "low_bid": 2.46,
+      "high_bid": 6.247261
+    },
+    {
+      "keyword": "adu without permit",
+      "avg_monthly_searches": 20,
+      "competition": "LOW",
+      "competition_index": "10",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu unit plans",
+      "avg_monthly_searches": 20,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "cost to add adu",
+      "avg_monthly_searches": 20,
+      "competition": "MEDIUM",
+      "competition_index": "61",
+      "low_bid": 3.18,
+      "high_bid": 25.968922
+    },
+    {
+      "keyword": "adu small house",
+      "avg_monthly_searches": 20,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.49,
+      "high_bid": 5.993191
+    },
+    {
+      "keyword": "cost of adu garage conversion",
+      "avg_monthly_searches": 20,
+      "competition": "MEDIUM",
+      "competition_index": "51",
+      "low_bid": 1.98,
+      "high_bid": 8.79
+    },
+    {
+      "keyword": "backyard cabins for sale",
+      "avg_monthly_searches": 20,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.2,
+      "high_bid": 1.23
+    },
+    {
+      "keyword": "adu sample plans",
+      "avg_monthly_searches": 20,
+      "competition": "HIGH",
+      "competition_index": "99",
+      "low_bid": 0.36,
+      "high_bid": 3.89
+    },
+    {
+      "keyword": "detached garage adu conversion",
+      "avg_monthly_searches": 20,
+      "competition": "MEDIUM",
+      "competition_index": "34",
+      "low_bid": 2.8,
+      "high_bid": 9.966685
+    },
+    {
+      "keyword": "converted garage adu",
+      "avg_monthly_searches": 20,
+      "competition": "MEDIUM",
+      "competition_index": "45",
+      "low_bid": 1.500608,
+      "high_bid": 8.24
+    },
+    {
+      "keyword": "sample adu floor plans",
+      "avg_monthly_searches": 20,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.55,
+      "high_bid": 2.35
+    },
+    {
+      "keyword": "design build adu",
+      "avg_monthly_searches": 20,
+      "competition": "MEDIUM",
+      "competition_index": "35",
+      "low_bid": 7.746222,
+      "high_bid": 21.381748
+    },
+    {
+      "keyword": "cost to convert garage into adu",
+      "avg_monthly_searches": 20,
+      "competition": "MEDIUM",
+      "competition_index": "39",
+      "low_bid": 3.011784,
+      "high_bid": 10.7631
+    },
+    {
+      "keyword": "new construction adu",
+      "avg_monthly_searches": 20,
+      "competition": "MEDIUM",
+      "competition_index": "39",
+      "low_bid": 0.866156,
+      "high_bid": 6.01
+    },
+    {
+      "keyword": "cost to turn garage into adu",
+      "avg_monthly_searches": 20,
+      "competition": "MEDIUM",
+      "competition_index": "44",
+      "low_bid": 2.85,
+      "high_bid": 6.91
+    },
+    {
+      "keyword": "granny flat adu",
+      "avg_monthly_searches": 20,
+      "competition": "LOW",
+      "competition_index": "4",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu extension",
+      "avg_monthly_searches": 20,
+      "competition": "MEDIUM",
+      "competition_index": "35",
+      "low_bid": 5.364348,
+      "high_bid": 17.231142
+    },
+    {
+      "keyword": "allwood solvalla",
+      "avg_monthly_searches": 20,
+      "competition": "HIGH",
+      "competition_index": "89",
+      "low_bid": 0.53,
+      "high_bid": 2.072273
+    },
+    {
+      "keyword": "adu front yard",
+      "avg_monthly_searches": 20,
+      "competition": "LOW",
+      "competition_index": "3",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "auxiliary unit dwelling",
+      "avg_monthly_searches": 20,
+      "competition": "LOW",
+      "competition_index": "24",
+      "low_bid": 0.129414,
+      "high_bid": 2.68
+    },
+    {
+      "keyword": "property adu",
+      "avg_monthly_searches": 20,
+      "competition": "LOW",
+      "competition_index": "14",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "apartment adu",
+      "avg_monthly_searches": 20,
+      "competition": "LOW",
+      "competition_index": "2",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "cost to build adu above garage",
+      "avg_monthly_searches": 20,
+      "competition": "LOW",
+      "competition_index": "21",
+      "low_bid": 1.158904,
+      "high_bid": 3.055419
+    },
+    {
+      "keyword": "conversion adu",
+      "avg_monthly_searches": 20,
+      "competition": "MEDIUM",
+      "competition_index": "54",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "homes for sale with pools in the backyard",
+      "avg_monthly_searches": 20,
+      "competition": "MEDIUM",
+      "competition_index": "35",
+      "low_bid": 0.046902,
+      "high_bid": 1.07
+    },
+    {
+      "keyword": "adu 2 story plans",
+      "avg_monthly_searches": 20,
+      "competition": "HIGH",
+      "competition_index": "97",
+      "low_bid": 0.44,
+      "high_bid": 3.9
+    },
+    {
+      "keyword": "best adu floor plans",
+      "avg_monthly_searches": 20,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.36,
+      "high_bid": 2.78
+    },
+    {
+      "keyword": "adu is",
+      "avg_monthly_searches": 20,
+      "competition": "LOW",
+      "competition_index": "20",
+      "low_bid": 1.56,
+      "high_bid": 4.98
+    },
+    {
+      "keyword": "adu detached garage",
+      "avg_monthly_searches": 20,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "accessory housing unit",
+      "avg_monthly_searches": 20,
+      "competition": "LOW",
+      "competition_index": "10",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "dadu adu",
+      "avg_monthly_searches": 20,
+      "competition": "LOW",
+      "competition_index": "11",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "permitted adu",
+      "avg_monthly_searches": 20,
+      "competition": "LOW",
+      "competition_index": "7",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "accessory dwelling unit st paul",
+      "avg_monthly_searches": 20,
+      "competition": "LOW",
+      "competition_index": "0",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "accessory housing",
+      "avg_monthly_searches": 20,
+      "competition": "LOW",
+      "competition_index": "6",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu affordable dwelling unit",
+      "avg_monthly_searches": 20,
+      "competition": "LOW",
+      "competition_index": "16",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu auxiliary dwelling unit",
+      "avg_monthly_searches": 20,
+      "competition": "LOW",
+      "competition_index": "24",
+      "low_bid": 0.633806,
+      "high_bid": 12.99
+    },
+    {
+      "keyword": "adu cottage designs",
+      "avg_monthly_searches": 20,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 1.19,
+      "high_bid": 3.12
+    },
+    {
+      "keyword": "adu over garage floor plans",
+      "avg_monthly_searches": 20,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.347727,
+      "high_bid": 2.36
+    },
+    {
+      "keyword": "adu suite",
+      "avg_monthly_searches": 20,
+      "competition": "LOW",
+      "competition_index": "23",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu what is",
+      "avg_monthly_searches": 20,
+      "competition": "LOW",
+      "competition_index": "7",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "backyard villa",
+      "avg_monthly_searches": 20,
+      "competition": "LOW",
+      "competition_index": "1",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "building an inlaw apartment",
+      "avg_monthly_searches": 20,
+      "competition": "LOW",
+      "competition_index": "9",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "city of long beach accessory dwelling unit",
+      "avg_monthly_searches": 20,
+      "competition": "LOW",
+      "competition_index": "26",
+      "low_bid": 5.26,
+      "high_bid": 12.9
+    },
+    {
+      "keyword": "dadu unit",
+      "avg_monthly_searches": 20,
+      "competition": "MEDIUM",
+      "competition_index": "34",
+      "low_bid": 1.95,
+      "high_bid": 7.53
+    },
+    {
+      "keyword": "detached adu designs",
+      "avg_monthly_searches": 20,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.36,
+      "high_bid": 2.14
+    },
+    {
+      "keyword": "detached garage apartment floor plans",
+      "avg_monthly_searches": 20,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "diy outdoor entertainment area",
+      "avg_monthly_searches": 20,
+      "competition": "HIGH",
+      "competition_index": "94",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "durham accessory dwelling unit",
+      "avg_monthly_searches": 20,
+      "competition": "LOW",
+      "competition_index": "29",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "garage apartment addition",
+      "avg_monthly_searches": 20,
+      "competition": "HIGH",
+      "competition_index": "68",
+      "low_bid": 1.398469,
+      "high_bid": 4.31
+    },
+    {
+      "keyword": "house with detached garage apartment",
+      "avg_monthly_searches": 20,
+      "competition": "MEDIUM",
+      "competition_index": "65",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "kol peterson adu",
+      "avg_monthly_searches": 20,
+      "competition": "LOW",
+      "competition_index": "24",
+      "low_bid": 2.41,
+      "high_bid": 13.420447
+    },
+    {
+      "keyword": "ladbs adu standard plan",
+      "avg_monthly_searches": 20,
+      "competition": "LOW",
+      "competition_index": "13",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "legal accessory apartment",
+      "avg_monthly_searches": 20,
+      "competition": "LOW",
+      "competition_index": "0",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "modern adu floor plans",
+      "avg_monthly_searches": 20,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "small adu layout",
+      "avg_monthly_searches": 20,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "affordable backyard studio",
+      "avg_monthly_searches": 10,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "granny flat builders gold coast",
+      "avg_monthly_searches": 10,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "granny flat builders central coast",
+      "avg_monthly_searches": 10,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu agency",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "23",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "abodu homes cost",
+      "avg_monthly_searches": 10,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "diy backyard guest house",
+      "avg_monthly_searches": 10,
+      "competition": "HIGH",
+      "competition_index": "88",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "abodu adu cost",
+      "avg_monthly_searches": 10,
+      "competition": "MEDIUM",
+      "competition_index": "43",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "cottage adu cost",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "22",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu cost estimate",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "18",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "cost to connect adu to sewer",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "29",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "abodu dwell",
+      "avg_monthly_searches": 10,
+      "competition": "MEDIUM",
+      "competition_index": "50",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "average cost to convert garage to adu",
+      "avg_monthly_searches": 10,
+      "competition": "MEDIUM",
+      "competition_index": "56",
+      "low_bid": 1.28,
+      "high_bid": 3.9
+    },
+    {
+      "keyword": "adu abodu",
+      "avg_monthly_searches": 10,
+      "competition": "HIGH",
+      "competition_index": "80",
+      "low_bid": 2.42,
+      "high_bid": 11.57
+    },
+    {
+      "keyword": "converting garage to adu cost",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "0",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "building granny flat in backyard",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "0",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu price range",
+      "avg_monthly_searches": 10,
+      "competition": "MEDIUM",
+      "competition_index": "57",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "abodu house",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "0",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "homes for sale with backyard pool near me",
+      "avg_monthly_searches": 10,
+      "competition": "HIGH",
+      "competition_index": "86",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu unit floor plans",
+      "avg_monthly_searches": 10,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.41,
+      "high_bid": 3.56
+    },
+    {
+      "keyword": "backyard room kits",
+      "avg_monthly_searches": 10,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "pod office backyard",
+      "avg_monthly_searches": 10,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.402274,
+      "high_bid": 1.11
+    },
+    {
+      "keyword": "temo backyard living",
+      "avg_monthly_searches": 10,
+      "competition": "MEDIUM",
+      "competition_index": "34",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "granny house builders",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "8",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "pre fab granny flat",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "0",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "average cost to build adu",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "30",
+      "low_bid": 0.818561,
+      "high_bid": 5.899952
+    },
+    {
+      "keyword": "backyard grannys price",
+      "avg_monthly_searches": 10,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "danville adu plans",
+      "avg_monthly_searches": 10,
+      "competition": "HIGH",
+      "competition_index": "69",
+      "low_bid": 4.024701,
+      "high_bid": 14.16223
+    },
+    {
+      "keyword": "backyard waterfall kits home depot",
+      "avg_monthly_searches": 10,
+      "competition": "MEDIUM",
+      "competition_index": "50",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "affordable backyard guest house",
+      "avg_monthly_searches": 10,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "rescon granny flat",
+      "avg_monthly_searches": 10,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "second story adu",
+      "avg_monthly_searches": 10,
+      "competition": "MEDIUM",
+      "competition_index": "64",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "masterton homes granny flat",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "0",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "cost for adu plans",
+      "avg_monthly_searches": 10,
+      "competition": "MEDIUM",
+      "competition_index": "43",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "converting a detached garage into a granny flat cost",
+      "avg_monthly_searches": 10,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "granny flat builders illawarra",
+      "avg_monthly_searches": 10,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "amazon backyard guest house",
+      "avg_monthly_searches": 10,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "backyard pod kit",
+      "avg_monthly_searches": 10,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "dwell adu cost",
+      "avg_monthly_searches": 10,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "outdoor lights for house waterproof",
+      "avg_monthly_searches": 10,
+      "competition": "HIGH",
+      "competition_index": "95",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "build 2 bedroom granny flat",
+      "avg_monthly_searches": 10,
+      "competition": "HIGH",
+      "competition_index": "93",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "builder for granny flat",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "0",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "mighty buildings adu",
+      "avg_monthly_searches": 10,
+      "competition": "MEDIUM",
+      "competition_index": "48",
+      "low_bid": 5.25,
+      "high_bid": 13.89
+    },
+    {
+      "keyword": "auxiliary dwelling unit for sale",
+      "avg_monthly_searches": 10,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu in law unit",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "11",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu plans online",
+      "avg_monthly_searches": 10,
+      "competition": "MEDIUM",
+      "competition_index": "55",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "blu homes adu",
+      "avg_monthly_searches": 10,
+      "competition": "MEDIUM",
+      "competition_index": "52",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu cabin guest house",
+      "avg_monthly_searches": 10,
+      "competition": "HIGH",
+      "competition_index": "86",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "average cost of building an adu",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "29",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "amazon diy guest house",
+      "avg_monthly_searches": 10,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "cost of adu construction",
+      "avg_monthly_searches": 10,
+      "competition": "MEDIUM",
+      "competition_index": "43",
+      "low_bid": 0.73,
+      "high_bid": 6.51
+    },
+    {
+      "keyword": "adu above garage designs",
+      "avg_monthly_searches": 10,
+      "competition": "HIGH",
+      "competition_index": "97",
+      "low_bid": 1.0,
+      "high_bid": 2.74
+    },
+    {
+      "keyword": "cost to build 500 sq ft adu",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "19",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "building a second dwelling on your property",
+      "avg_monthly_searches": 10,
+      "competition": "MEDIUM",
+      "competition_index": "47",
+      "low_bid": 0.751539,
+      "high_bid": 5.4
+    },
+    {
+      "keyword": "adair homes adu",
+      "avg_monthly_searches": 10,
+      "competition": "MEDIUM",
+      "competition_index": "57",
+      "low_bid": 1.061562,
+      "high_bid": 4.59
+    },
+    {
+      "keyword": "granny flat builders prices",
+      "avg_monthly_searches": 10,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "backyard prefab adu",
+      "avg_monthly_searches": 10,
+      "competition": "HIGH",
+      "competition_index": "98",
+      "low_bid": 0.684837,
+      "high_bid": 3.25
+    },
+    {
+      "keyword": "best granny flat builders",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "0",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "price to build adu",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "29",
+      "low_bid": 3.824182,
+      "high_bid": 8.5
+    },
+    {
+      "keyword": "auxiliary dwelling unit prefab",
+      "avg_monthly_searches": 10,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.39,
+      "high_bid": 2.822408
+    },
+    {
+      "keyword": "cover backyard homes",
+      "avg_monthly_searches": 10,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "garage to granny flat conversion cost",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "0",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "stroud homes granny flat",
+      "avg_monthly_searches": 10,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "accessory dwelling plans",
+      "avg_monthly_searches": 10,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.5,
+      "high_bid": 2.55
+    },
+    {
+      "keyword": "20 x 20 adu plans",
+      "avg_monthly_searches": 10,
+      "competition": "MEDIUM",
+      "competition_index": "62",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "modative adu",
+      "avg_monthly_searches": 10,
+      "competition": "HIGH",
+      "competition_index": "79",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "aarp adu floor plans",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "19",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu separate meter",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "8",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "homes for sale with pools in the backyard near me",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "0",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "county standard adu building plans",
+      "avg_monthly_searches": 10,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "building a unit in the backyard",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "0",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "separate electric meter for adu",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "27",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "coral homes granny flat",
+      "avg_monthly_searches": 10,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu 400 square feet",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "0",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu unit ideas",
+      "avg_monthly_searches": 10,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 1.182225,
+      "high_bid": 3.269144
+    },
+    {
+      "keyword": "gj gardner granny flat",
+      "avg_monthly_searches": 10,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "amazon guest house kit",
+      "avg_monthly_searches": 10,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu resources",
+      "avg_monthly_searches": 10,
+      "competition": "MEDIUM",
+      "competition_index": "39",
+      "low_bid": 0.412426,
+      "high_bid": 7.498636
+    },
+    {
+      "keyword": "dale alcock granny flats",
+      "avg_monthly_searches": 10,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu prefab units",
+      "avg_monthly_searches": 10,
+      "competition": "HIGH",
+      "competition_index": "98",
+      "low_bid": 1.4,
+      "high_bid": 13.53
+    },
+    {
+      "keyword": "building units on your property",
+      "avg_monthly_searches": 10,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "granny flats construction",
+      "avg_monthly_searches": 10,
+      "competition": "MEDIUM",
+      "competition_index": "43",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "40000 grant adu",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "14",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu plans above garage",
+      "avg_monthly_searches": 10,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.243204,
+      "high_bid": 1.66
+    },
+    {
+      "keyword": "1 dwelling unit",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "0",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "2 dwelling units",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "0",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "a adu",
+      "avg_monthly_searches": 10,
+      "competition": "MEDIUM",
+      "competition_index": "57",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "accessory apartment permit",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "4",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "accessory apartment plans",
+      "avg_monthly_searches": 10,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "accessory apartments in single family housing",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "4",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "accessory building unit",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "23",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "accessory residential unit",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "0",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "acton adu cost",
+      "avg_monthly_searches": 10,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adding a second dwelling",
+      "avg_monthly_searches": 10,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adding another dwelling to your property",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "25",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu 2023",
+      "avg_monthly_searches": 10,
+      "competition": "HIGH",
+      "competition_index": "71",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu 2nd unit",
+      "avg_monthly_searches": 10,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu aarp",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "0",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu above garage ideas",
+      "avg_monthly_searches": 10,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu an",
+      "avg_monthly_searches": 10,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu and junior adu",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "0",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu area",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "3",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu check",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "0",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu construction la",
+      "avg_monthly_searches": 10,
+      "competition": "MEDIUM",
+      "competition_index": "64",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu existing garage",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "29",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu facts",
+      "avg_monthly_searches": 10,
+      "competition": "HIGH",
+      "competition_index": "86",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu family",
+      "avg_monthly_searches": 10,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu gov",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "0",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu hcd",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "1",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu it",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "0",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu max square footage",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "5",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu minimum square footage",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "10",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu multi family",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "0",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu new law",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "7",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu park",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "0",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu q",
+      "avg_monthly_searches": 10,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu site",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "5",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "adu stand",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "0",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "airbnb founder adu",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "10",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "amazon diy backyard guest house",
+      "avg_monthly_searches": 10,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "an auxiliary dwelling unit is also known as a",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "0",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "auxiliary dwelling unit designs",
+      "avg_monthly_searches": 10,
+      "competition": "HIGH",
+      "competition_index": "71",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "backyard builds hgtv",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "0",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "backyard cottage cost",
+      "avg_monthly_searches": 10,
+      "competition": "MEDIUM",
+      "competition_index": "60",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "backyard cottage house",
+      "avg_monthly_searches": 10,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "backyard cottage with bathroom",
+      "avg_monthly_searches": 10,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "backyard garage apartment",
+      "avg_monthly_searches": 10,
+      "competition": "HIGH",
+      "competition_index": "83",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "baum construction & development adu contractor",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "0",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "bedroom adu",
+      "avg_monthly_searches": 10,
+      "competition": "HIGH",
+      "competition_index": "97",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "build a backyard adu",
+      "avg_monthly_searches": 10,
+      "competition": "HIGH",
+      "competition_index": "83",
+      "low_bid": 0.24,
+      "high_bid": 4.39
+    },
+    {
+      "keyword": "building adu before main house",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "0",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "building adu without permit",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "11",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "building an inlaw unit",
+      "avg_monthly_searches": 10,
+      "competition": "MEDIUM",
+      "competition_index": "48",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "building and adu",
+      "avg_monthly_searches": 10,
+      "competition": "HIGH",
+      "competition_index": "79",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "ca granny flat law",
+      "avg_monthly_searches": 10,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "convert garage to granny flat cost",
+      "avg_monthly_searches": 10,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "cost of converting garage to granny flat",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "14",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "cost of garage apartment addition",
+      "avg_monthly_searches": 10,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "cost of granny flats to build",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "21",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "cost to build 2 units",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "0",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "cost to build a mother in law unit",
+      "avg_monthly_searches": 10,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "cost to build above garage apartment",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "2",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "cost to build an inlaw unit",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "18",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "detached single garage conversion",
+      "avg_monthly_searches": 10,
+      "competition": "HIGH",
+      "competition_index": "86",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "diy backyard guest house amazon",
+      "avg_monthly_searches": 10,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "diy guest house amazon",
+      "avg_monthly_searches": 10,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "existing dwelling",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "0",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "family dwelling unit",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "19",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "flat builder",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "0",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "free adu building plans",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "4",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "garage apartment addition cost",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "0",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "garage apartment addition plans",
+      "avg_monthly_searches": 10,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "garage apartment conversion floor plans",
+      "avg_monthly_searches": 10,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "garage conversion to granny flat cost",
+      "avg_monthly_searches": 10,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "garage dwelling",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "5",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "garage to adu cost",
+      "avg_monthly_searches": 10,
+      "competition": "MEDIUM",
+      "competition_index": "35",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "garage turned adu",
+      "avg_monthly_searches": 10,
+      "competition": "MEDIUM",
+      "competition_index": "37",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "house with granny unit",
+      "avg_monthly_searches": 10,
+      "competition": "MEDIUM",
+      "competition_index": "33",
+      "low_bid": 0.41,
+      "high_bid": 2.018445
+    },
+    {
+      "keyword": "it house adu",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "21",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "jadu construction",
+      "avg_monthly_searches": 10,
+      "competition": "HIGH",
+      "competition_index": "86",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "junior dwelling unit",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "6",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "la pre approved adu",
+      "avg_monthly_searches": 10,
+      "competition": "HIGH",
+      "competition_index": "71",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "minarc adu",
+      "avg_monthly_searches": 10,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "modular backyard cottage",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "0",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "multi family adu",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "14",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "my backyard studio",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "14",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "new adu law",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "0",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "new build adu",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "0",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "newcastle granny flat builder",
+      "avg_monthly_searches": 10,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "oasys adu cost",
+      "avg_monthly_searches": 10,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "orange adu",
+      "avg_monthly_searches": 10,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "permit cost for adu",
+      "avg_monthly_searches": 10,
+      "competition": "MEDIUM",
+      "competition_index": "39",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "permit ready adu",
+      "avg_monthly_searches": 10,
+      "competition": "MEDIUM",
+      "competition_index": "45",
+      "low_bid": 1.440353,
+      "high_bid": 7.676553
+    },
+    {
+      "keyword": "possible adu",
+      "avg_monthly_searches": 10,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "premier homes and granny flats prices",
+      "avg_monthly_searches": 10,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "raised patio area",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "4",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "secondary dwelling designs",
+      "avg_monthly_searches": 10,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "secondary housing unit",
+      "avg_monthly_searches": 10,
+      "competition": "MEDIUM",
+      "competition_index": "38",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "separate adu",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "13",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "separate water meter for adu",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "32",
+      "low_bid": 2.12,
+      "high_bid": 3.17
+    },
+    {
+      "keyword": "single family home with accessory unit",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "0",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "single garage into granny flat",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "33",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "small backyard cottage plans",
+      "avg_monthly_searches": 10,
+      "competition": "HIGH",
+      "competition_index": "100",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "st paul accessory dwelling units",
+      "avg_monthly_searches": 10,
+      "competition": "MEDIUM",
+      "competition_index": "50",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "stroud homes with granny flat",
+      "avg_monthly_searches": 10,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "two story backyard cottage",
+      "avg_monthly_searches": 10,
+      "competition": "MEDIUM",
+      "competition_index": "64",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "urban dwelling units",
+      "avg_monthly_searches": 10,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "veev adu cost",
+      "avg_monthly_searches": 10,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "yard adu",
+      "avg_monthly_searches": 10,
+      "competition": "HIGH",
+      "competition_index": "71",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "zoning for adu",
+      "avg_monthly_searches": 10,
+      "competition": "LOW",
+      "competition_index": "0",
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "granny flat cost 2022",
+      "avg_monthly_searches": 0,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "my abodu cost",
+      "avg_monthly_searches": 0,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "house and granny flat builders",
+      "avg_monthly_searches": 0,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "granny flat builders blue mountains",
+      "avg_monthly_searches": 0,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "granny flat builders northern beaches",
+      "avg_monthly_searches": 0,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "5 star builders and granny flats",
+      "avg_monthly_searches": 0,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "gj gardner homes with granny flat",
+      "avg_monthly_searches": 0,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "baum construction & development adu long beach",
+      "avg_monthly_searches": 0,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "ca garage conversion law",
+      "avg_monthly_searches": 0,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "cheap granny flat builders",
+      "avg_monthly_searches": 0,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "dale alcock granny flat price",
+      "avg_monthly_searches": 0,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "dwelling house in family law",
+      "avg_monthly_searches": 0,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "mcdonald jones granny flats",
+      "avg_monthly_searches": 0,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "mcdonald jones homes granny flat",
+      "avg_monthly_searches": 0,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "perry homes granny flat",
+      "avg_monthly_searches": 0,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "rawson homes granny flat",
+      "avg_monthly_searches": 0,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "rescon builders granny flats",
+      "avg_monthly_searches": 0,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    },
+    {
+      "keyword": "superior homes and granny flats",
+      "avg_monthly_searches": 0,
+      "competition": "UNSPECIFIED",
+      "competition_index": null,
+      "low_bid": 0.0,
+      "high_bid": 0.0
+    }
+  ]
+}

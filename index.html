@@ -53,6 +53,9 @@
     @keyframes nudge { 0%,100%{transform:translateX(0)} 50%{transform:translateX(4px)} }
     @media(min-width:768px) { .tab-scroll-hint { display: none; } }
   </style>
+
+  <!-- reCAPTCHA v3 -->
+  <script src="https://www.google.com/recaptcha/api.js?render=6LdgT4gsAAAAAImTHSgMZIIW5YdgVhRFyI7WgjfM"></script>
 </head>
 <body class="bg-brand-bg text-brand-dark font-sans">
   <!-- Google Tag Manager (noscript) -->
@@ -529,18 +532,22 @@
     const ok = document.getElementById(formId + '-ok');
     const fd = new FormData(form);
 
-    const data = {
-      name: fd.get('name'), phone: fd.get('phone'), email: fd.get('email'),
-      area: fd.get('area') || '', plan_interest: fd.get('plan_interest') || '',
-      request_type: fd.get('request_type') || 'quote',
-      message: fd.get('message') || '', source: 'shelf-ready-landing',
-      submitted_at: new Date().toISOString(), form_location: formId
-    };
-
     btn.disabled = true;
     btn.textContent = 'Sending...';
 
     try {
+      // Get reCAPTCHA v3 token
+      const recaptchaToken = await grecaptcha.execute('6LdgT4gsAAAAAImTHSgMZIIW5YdgVhRFyI7WgjfM', { action: 'submit_lead' });
+
+      const data = {
+        name: fd.get('name'), phone: fd.get('phone'), email: fd.get('email'),
+        area: fd.get('area') || '', plan_interest: fd.get('plan_interest') || '',
+        request_type: fd.get('request_type') || 'quote',
+        message: fd.get('message') || '', source: 'shelf-ready-landing',
+        submitted_at: new Date().toISOString(), form_location: formId,
+        recaptchaToken: recaptchaToken
+      };
+
       const r = await fetch(WEBHOOK_URL, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(data) });
       if (r.ok) {
         form.classList.add('hidden');
