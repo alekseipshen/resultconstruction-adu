@@ -118,8 +118,8 @@
         <form id="leadFormHero" onsubmit="return submitForm(event,'hero')">
           <div class="space-y-3">
             <input type="text" name="name" required placeholder="Full Name *" class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-brand-accent focus:border-brand-accent outline-none">
-            <input type="tel" name="phone" required placeholder="Phone *" class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-brand-accent focus:border-brand-accent outline-none">
-            <input type="email" name="email" required placeholder="Email *" class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-brand-accent focus:border-brand-accent outline-none">
+            <input type="tel" name="phone" required placeholder="Phone * (xxx) xxx-xxxx" pattern="\(\d{3}\)\s\d{3}-\d{4}" maxlength="14" oninput="formatPhone(this)" class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-brand-accent focus:border-brand-accent outline-none">
+            <input type="email" name="email" required placeholder="Email *" pattern="[a-zA-Z0-9._%+\-]+@[a-zA-Z0-9.\-]+\.[a-zA-Z]{2,}" class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-brand-accent focus:border-brand-accent outline-none">
             <select name="area" class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-brand-accent outline-none bg-white">
               <option value="">Which area?</option>
               <option value="county">Sacramento County</option>
@@ -293,8 +293,8 @@
         <form id="leadFormFooter" onsubmit="return submitForm(event,'footer')">
           <div class="space-y-3">
             <input type="text" name="name" required placeholder="Full Name *" class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-brand-accent outline-none">
-            <input type="tel" name="phone" required placeholder="Phone *" class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-brand-accent outline-none">
-            <input type="email" name="email" required placeholder="Email *" class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-brand-accent outline-none">
+            <input type="tel" name="phone" required placeholder="Phone * (xxx) xxx-xxxx" pattern="\(\d{3}\)\s\d{3}-\d{4}" maxlength="14" oninput="formatPhone(this)" class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-brand-accent outline-none">
+            <input type="email" name="email" required placeholder="Email *" pattern="[a-zA-Z0-9._%+\-]+@[a-zA-Z0-9.\-]+\.[a-zA-Z]{2,}" class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-brand-accent outline-none">
             <select name="area" class="w-full px-4 py-3 border border-gray-300 rounded-lg outline-none bg-white"><option value="">Which area?</option><option value="county">Sacramento County</option><option value="city">City of Sacramento</option><option value="elkgrove">Elk Grove</option><option value="placer">Placer County</option><option value="yuba">Yuba County</option><option value="other">Other City/County</option><option value="not-sure">Not Sure</option></select>
             <textarea name="message" rows="2" placeholder="Message (optional)" class="w-full px-4 py-3 border border-gray-300 rounded-lg outline-none resize-none"></textarea>
             <button type="submit" id="footer-btn" class="w-full bg-brand-accent text-white font-semibold py-3 rounded-lg hover:bg-blue-700 transition shadow-lg shadow-blue-500/25 text-lg">Get My Free Quote</button>
@@ -430,8 +430,8 @@
                     <option value="both">Both — Estimate + Plan PDF</option>
                   </select>
                   <input type="text" name="name" required placeholder="Full Name *" class="w-full px-3 py-2 text-sm border border-gray-300 rounded-lg focus:ring-2 focus:ring-brand-accent outline-none">
-                  <input type="tel" name="phone" required placeholder="Phone *" class="w-full px-3 py-2 text-sm border border-gray-300 rounded-lg focus:ring-2 focus:ring-brand-accent outline-none">
-                  <input type="email" name="email" required placeholder="Email *" class="w-full px-3 py-2 text-sm border border-gray-300 rounded-lg focus:ring-2 focus:ring-brand-accent outline-none">
+                  <input type="tel" name="phone" required placeholder="Phone * (xxx) xxx-xxxx" pattern="\\(\\d{3}\\)\\s\\d{3}-\\d{4}" maxlength="14" oninput="formatPhone(this)" class="w-full px-3 py-2 text-sm border border-gray-300 rounded-lg focus:ring-2 focus:ring-brand-accent outline-none">
+                  <input type="email" name="email" required placeholder="Email *" pattern="[a-zA-Z0-9._%+\\-]+@[a-zA-Z0-9.\\-]+\\.[a-zA-Z]{2,}" class="w-full px-3 py-2 text-sm border border-gray-300 rounded-lg focus:ring-2 focus:ring-brand-accent outline-none">
                   <button type="submit" id="${p.id}-btn" class="w-full bg-brand-accent text-white font-semibold py-2.5 rounded-lg hover:bg-blue-700 transition text-sm">Send Request</button>
                 </form>
                 <div id="${p.id}-ok" class="hidden text-center py-4">
@@ -461,8 +461,8 @@
           <form onsubmit="return submitForm(event,'other')" class="space-y-3">
             <input type="hidden" name="area" value="Other City/County">
             <input type="text" name="name" required placeholder="Full Name *" class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-brand-accent outline-none">
-            <input type="tel" name="phone" required placeholder="Phone *" class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-brand-accent outline-none">
-            <input type="email" name="email" required placeholder="Email *" class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-brand-accent outline-none">
+            <input type="tel" name="phone" required placeholder="Phone * (xxx) xxx-xxxx" pattern="\(\d{3}\)\s\d{3}-\d{4}" maxlength="14" oninput="formatPhone(this)" class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-brand-accent outline-none">
+            <input type="email" name="email" required placeholder="Email *" pattern="[a-zA-Z0-9._%+\-]+@[a-zA-Z0-9.\-]+\.[a-zA-Z]{2,}" class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-brand-accent outline-none">
             <textarea name="message" rows="2" required placeholder="Your city/county and what you're looking for *" class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-brand-accent outline-none resize-none"></textarea>
             <button type="submit" id="other-btn" class="w-full bg-brand-accent text-white font-semibold py-3 rounded-lg hover:bg-blue-700 transition shadow-lg shadow-blue-500/25">Check My Area</button>
           </form>
@@ -525,12 +525,28 @@
   })();
 
   // ===== FORM SUBMISSION =====
+  function formatPhone(input) {
+    let digits = input.value.replace(/\D/g, '').substring(0, 10);
+    if (digits.length === 0) { input.value = ''; return; }
+    if (digits.length <= 3) input.value = '(' + digits;
+    else if (digits.length <= 6) input.value = '(' + digits.substring(0,3) + ') ' + digits.substring(3);
+    else input.value = '(' + digits.substring(0,3) + ') ' + digits.substring(3,6) + '-' + digits.substring(6);
+  }
+
   async function submitForm(event, formId) {
     event.preventDefault();
     const form = event.target;
     const btn = document.getElementById(formId + '-btn');
     const ok = document.getElementById(formId + '-ok');
     const fd = new FormData(form);
+
+    // Validate phone: must be 10 digits
+    const phoneRaw = fd.get('phone').replace(/\D/g, '');
+    if (phoneRaw.length !== 10) { alert('Please enter a valid 10-digit US phone number.'); return false; }
+
+    // Validate email
+    const email = fd.get('email');
+    if (!/^[a-zA-Z0-9._%+\-]+@[a-zA-Z0-9.\-]+\.[a-zA-Z]{2,}$/.test(email)) { alert('Please enter a valid email address.'); return false; }
 
     btn.disabled = true;
     btn.textContent = 'Sending...';
@@ -540,7 +556,7 @@
       const recaptchaToken = await grecaptcha.execute('6LdgT4gsAAAAAImTHSgMZIIW5YdgVhRFyI7WgjfM', { action: 'submit_lead' });
 
       const data = {
-        name: fd.get('name'), phone: fd.get('phone'), email: fd.get('email'),
+        name: fd.get('name'), phone: phoneRaw, email: email,
         area: fd.get('area') || '', plan_interest: fd.get('plan_interest') || '',
         request_type: fd.get('request_type') || 'quote',
         message: fd.get('message') || '', source: 'shelf-ready-landing',
