@@ -575,7 +575,6 @@
   async function submitForm(event, formId) {
     event.preventDefault();
     const form = event.target;
-    const btn = document.getElementById(formId + '-btn');
     const ok = document.getElementById(formId + '-ok');
     const fd = new FormData(form);
 
@@ -587,33 +586,26 @@
     const email = fd.get('email');
     if (!/^[a-zA-Z0-9._%+\-]+@[a-zA-Z0-9.\-]+\.[a-zA-Z]{2,}$/.test(email)) { alert('Please enter a valid email address.'); return false; }
 
-    btn.disabled = true;
-    btn.textContent = 'Sending...';
+    const data = {
+      name: fd.get('name'), phone: phoneRaw, email: email,
+      area: fd.get('area') || '', plan_interest: fd.get('plan_interest') || '',
+      request_type: fd.get('request_type') || 'quote',
+      message: fd.get('message') || '', source: 'shelf-ready-landing',
+      submitted_at: new Date().toISOString(), form_location: formId
+    };
+
+    // Show thank-you immediately; the webhook round-trip takes ~4s, deliver in background
+    form.classList.add('hidden');
+    ok.classList.remove('hidden');
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push({ 'event': 'generate_lead', 'form_location': formId });
 
     try {
-      // Get reCAPTCHA v3 token
-      const recaptchaToken = await grecaptcha.execute('6LdgT4gsAAAAAImTHSgMZIIW5YdgVhRFyI7WgjfM', { action: 'submit_lead' });
-
-      const data = {
-        name: fd.get('name'), phone: phoneRaw, email: email,
-        area: fd.get('area') || '', plan_interest: fd.get('plan_interest') || '',
-        request_type: fd.get('request_type') || 'quote',
-        message: fd.get('message') || '', source: 'shelf-ready-landing',
-        submitted_at: new Date().toISOString(), form_location: formId,
-        recaptchaToken: recaptchaToken
-      };
-
-      const r = await fetch(WEBHOOK_URL, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(data) });
-      if (r.ok) {
-        form.classList.add('hidden');
-        ok.classList.remove('hidden');
-        window.dataLayer = window.dataLayer || [];
-        window.dataLayer.push({ 'event': 'generate_lead', 'form_location': formId });
-      } else throw new Error();
+      data.recaptchaToken = await grecaptcha.execute('6LdgT4gsAAAAAImTHSgMZIIW5YdgVhRFyI7WgjfM', { action: 'submit_lead' });
+      const r = await fetch(WEBHOOK_URL, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(data), keepalive: true });
+      if (!r.ok) throw new Error();
     } catch (e) {
-      alert('Something went wrong. Please call us at (916) 238-8240.');
-      btn.disabled = false;
-      btn.textContent = 'Get My Free Quote';
+      alert('Something went wrong sending your request. Please call us at (916) 238-8240.');
     }
     return false;
   }
